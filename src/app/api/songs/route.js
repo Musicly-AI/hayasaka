@@ -31,7 +31,7 @@ export async function GET(req) {
         return NextResponse.json({
             success: true,
             message: "Song found",
-            data: data.toJSON(),
+            data: [data.toJSON()],
         });
     }
     catch (e) {

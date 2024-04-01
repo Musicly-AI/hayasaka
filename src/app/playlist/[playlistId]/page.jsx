@@ -33,7 +33,7 @@ const page = async ({ params }) => {
         ) : (
           <img
             className=" rounded-full"
-            src={playlistData?.image?.[2]?.url}
+            src={playlistData?.image?.[0]?.url}
             alt={playlistData?.title}
             width={300}
             height={300}

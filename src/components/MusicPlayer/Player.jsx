@@ -32,10 +32,10 @@ const Player = ({
     ? {
         title: activeSong?.name,
         artist: activeSong?.primaryArtists,
-        album: activeSong?.album.name,
+        album: activeSong?.album?.name,
         artwork: [
           {
-            src: activeSong.image[2]?.url,
+            src: activeSong.image[0]?.url,
             sizes: "500x500",
             type: "image/jpg",
           },
@@ -89,7 +89,7 @@ const Player = ({
   return (
     <>
       <audio
-        src={activeSong?.downloadUrl?.[4]?.url}
+        src={activeSong?.downloadUrl?.[0]?.url}
         ref={ref}
         loop={repeat}
         onEnded={onEnded}

@@ -1,16 +1,19 @@
 import { NextResponse } from "next/server";
 import dbConnect from "@/utils/dbconnect";
 
+import Song from "@/models/song";
 import Lyrics from "@/models/lyrics";
 
 // Get user info
 export async function GET(req) {
-  console.log("req", req.nextUrl.searchParams)
+  console.log("req", req.nextUrl.searchParams);
   try {
     await dbConnect();
 
-    const data = await Lyrics.findById(req.nextUrl.searchParams.get('id')).exec();
-    if (!data) {
+    const data = await Song.findById(req.nextUrl.searchParams.get("id"))
+      .populate("lyrics")
+      .exec();
+    if (!data || !data.lyrics) {
       return NextResponse.json(
         {
           success: false,
@@ -23,7 +26,7 @@ export async function GET(req) {
     return NextResponse.json({
       success: true,
       essage: "Lyrics found",
-      data: data.toJSON(),
+      data: data.toObject().lyrics,
     });
   } catch (e) {
     console.error(e);

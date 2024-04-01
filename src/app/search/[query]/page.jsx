@@ -78,7 +78,7 @@ const page = ({ params }) => {
                     <div className="flex items-center gap-5">
                       <div className=" relative">
                         <img
-                          src={song?.image?.[2]?.url}
+                          src={song?.image?.[0]?.url}
                           alt={song?.title}
                           width={50}
                           height={50}
@@ -132,7 +132,7 @@ const page = ({ params }) => {
                     <Link href={`/artist/${artist?.id}`}>
                       <div className=" flex flex-col justify-center items-center">
                         <Image
-                          src={artist?.image?.[2]?.url}
+                          src={artist?.image?.[0]?.url}
                           alt={artist?.name}
                           width={200}
                           height={200}

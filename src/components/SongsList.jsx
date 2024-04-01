@@ -104,7 +104,7 @@ const SongsList = ({
               <div className="flex items-center gap-5">
                 <div className=" relative mb-3">
                   <img
-                    src={song?.image?.[2]?.url}
+                    src={song?.image?.[0]?.url}
                     alt={song?.name}
                     width={50}
                     height={50}

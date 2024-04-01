@@ -101,7 +101,7 @@ const SongCard = ({ song, isPlaying, activeSong }) => {
               song.image?.[1]?.url || song.image?.[1]?.link
             } 480w, ${song.image?.[2]?.url || song.image?.[2]?.link} 800w`}
             sizes="(max-width: 320px) 280px, (max-width: 480px) 440px, 800px"
-            src={song.image?.[1]?.url || song.image?.[1]?.link}
+            src={song.image?.[0]?.url || song.image?.[0]?.link}
             className={`${
               song.type === "playlist" && song?.subtitle === "JioSaavn"
                 ? "rounded-full"

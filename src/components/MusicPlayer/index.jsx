@@ -66,7 +66,7 @@ const MusicPlayer = () => {
     };
     fetchFavourites();
     // set ambient background
-    const src = activeSong?.image?.[1]?.url;
+    const src = activeSong?.image?.[0]?.url;
 
     if (src) {
       getPixels(src, (err, pixels) => {
