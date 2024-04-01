@@ -11,6 +11,8 @@ const albumSchema = new mongoose.Schema(
     language: String,
     explicitContent: Boolean,
     songCount: Number,
+    isModule: Boolean,
+    isTrending: Boolean,
     artists: {
       primary: [
         {

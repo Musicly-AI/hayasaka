@@ -16,6 +16,7 @@ const songSchema = new mongoose.Schema(
     language: String,
     hasLyrics: Boolean,
     lyricsId: String,
+    isTrending: Boolean,
     lyrics: {
       type: mongoose.Schema.Types.ObjectId,
       ref: "lyrics",

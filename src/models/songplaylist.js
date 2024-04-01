@@ -11,6 +11,7 @@ const playlistSchema = new mongoose.Schema(
     explicitContent: Boolean,
     songCount: Number,
     url: String,
+    isModule: Boolean,
     image: [
       {
         quality: String,
