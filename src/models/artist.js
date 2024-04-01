@@ -1,16 +1,12 @@
 const mongoose = require("mongoose");
+import imageSchema from './image';
 
 const artistSchema = new mongoose.Schema(
   {
     name: String,
     role: String,
     type: String,
-    image: [
-      {
-        quality: String,
-        url: String,
-      },
-    ],
+    image: [imageSchema],
     url: String,
     followerCount: Number,
     fanCount: Number,

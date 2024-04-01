@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import imageSchema from './image';
 
 const playlistSchema = new mongoose.Schema(
   {
@@ -12,12 +13,7 @@ const playlistSchema = new mongoose.Schema(
     songCount: Number,
     url: String,
     isModule: Boolean,
-    image: [
-      {
-        quality: String,
-        url: String,
-      },
-    ],
+    image: [imageSchema],
     songs: [
       {
         type: mongoose.Schema.Types.ObjectId,

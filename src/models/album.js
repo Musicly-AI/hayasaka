@@ -1,4 +1,5 @@
 const mongoose = require("mongoose");
+import imageSchema from './image';
 
 const albumSchema = new mongoose.Schema(
   {
@@ -33,12 +34,7 @@ const albumSchema = new mongoose.Schema(
         },
       ],
     },
-    image: [
-      {
-        quality: String,
-        url: String,
-      },
-    ],
+    image: [imageSchema],
     songs: [
       {
         type: mongoose.Schema.Types.ObjectId,

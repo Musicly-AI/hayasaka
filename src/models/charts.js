@@ -1,15 +1,11 @@
 import mongoose from "mongoose";
+import imageSchema from './image';
 
 const chartSchema = new mongoose.Schema(
   {
     explicitContent: String,
     firstname: String,
-    image: [
-      {
-        quality: String,
-        url: String,
-      }
-    ],
+    image: [imageSchema],
     language: String,
     subtitle: String,
     title: String,

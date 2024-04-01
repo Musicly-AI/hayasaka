@@ -65,7 +65,7 @@ export async function GET(req) {
     }
 
     // 查询首页播放列表
-    const playlists = await SongPlaylist.find({ isModule: true, language: queryLang })
+    const playlists = await SongPlaylist.find({ isModule: true })
       .exec();
 
     if (playlists.length > 0) {
@@ -92,6 +92,7 @@ export async function GET(req) {
         const item = song.toObject();
         item.primaryArtists = item.artists.primary;
         item.featuredArtists = item.artists.featured;
+        item.artists = item.artists.all;
         return item;
       });
     }

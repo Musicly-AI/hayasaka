@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import imageSchema from './image';
 
 const songSchema = new mongoose.Schema(
   {
@@ -53,12 +54,7 @@ const songSchema = new mongoose.Schema(
         },
       ],
     },
-    image: [
-      {
-        quality: String,
-        url: String,
-      },
-    ],
+    image: [imageSchema],
     downloadUrl: [
       {
         quality: String,
