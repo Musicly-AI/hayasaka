@@ -26,6 +26,7 @@ export async function GET(req) {
     return NextResponse.json({
       success: true,
       essage: "Lyrics found",
+      status: 'SUCCESS',
       data: data.toObject().lyrics,
     });
   } catch (e) {
