@@ -1,0 +1,27 @@
+[
+  {
+    "name": "album1 name",
+    "description": "some description",
+    "year": 2024,
+    "type": "type1",
+    "playCount": 100,
+    "language": "english",
+    "isModule": true,
+    "isTrending": true,
+    "explicitContent": true,
+    "artists": {
+      "primary": ["66065db6a50a7568f72e83a6"],
+      "featured": ["66065db6a50a7568f72e83a6"],
+      "all": ["66065db6a50a7568f72e83a6"]
+    },
+    "songCount": 1,
+    "url": "wwww",
+    "image": [
+      {
+        "quality": "high",
+        "url": "www"
+      }
+    ],
+    "songs": ["66066b724a1fa4e078c679ad"]
+  }
+]

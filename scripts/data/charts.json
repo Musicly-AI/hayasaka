@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Trending Today",
+    "subtitle": "JioSaavn",
+    "isModule": true,
+    "type": "playlist",
+    "image": [
+      {
+        "quality": "50x50",
+        "link": "https://c.saavncdn.com/editorial/charts_TrendingToday_134351_20230826113717.jpg"
+      },
+      {
+        "quality": "150x150",
+        "link": "https://c.saavncdn.com/editorial/charts_TrendingToday_134351_20230826113717.jpg"
+      },
+      {
+        "quality": "500x500",
+        "link": "https://c.saavncdn.com/editorial/charts_TrendingToday_134351_20230826113717.jpg"
+      }
+    ],
+    "url": "https://www.jiosaavn.com/featured/trending-today/I3kvhipIy73uCJW60TJk1Q__",
+    "firstname": "JioSaavn",
+    "explicitContent": "0",
+    "language": "english"
+  }
+]

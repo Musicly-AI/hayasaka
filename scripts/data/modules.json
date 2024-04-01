@@ -1,0 +1,3748 @@
+{
+  "albums": [
+    {
+      "id": "52879669",
+      "name": "COWBOY CARTER",
+      "year": "",
+      "type": "album",
+      "playCount": "",
+      "language": "english",
+      "explicitContent": "0",
+      "songCount": "0",
+      "url": "https://www.jiosaavn.com/album/cowboy-carter/ra5ar,TEiGg_",
+      "primaryArtists": [],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "528092",
+          "name": "Beyoncé",
+          "url": "https://www.jiosaavn.com/artist/beyonce-songs/UVXieI6jW5I_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/736/COWBOY-CARTER-English-2024-20240328110605-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/736/COWBOY-CARTER-English-2024-20240328110605-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/736/COWBOY-CARTER-English-2024-20240328110605-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "B2JYglGG",
+      "name": "I LUV IT",
+      "year": "2024",
+      "type": "song",
+      "playCount": "4309",
+      "language": "english",
+      "explicitContent": "1",
+      "url": "https://www.jiosaavn.com/song/i-luv-it/MlohaBNccHQ",
+      "primaryArtists": [
+        {
+          "id": "1342580",
+          "name": "Camila Cabello",
+          "url": "https://www.jiosaavn.com/artist/camila-cabello-songs/T8rykyjbKe4_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Camila_Cabello_20171208142451_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Camila_Cabello_20171208142451_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Camila_Cabello_20171208142451_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        },
+        {
+          "id": "1659238",
+          "name": "Playboi Carti",
+          "url": "https://www.jiosaavn.com/artist/playboi-carti-songs/uYoFTjJe9yE_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/831/Playboi-Carti-English-2017-50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/831/Playboi-Carti-English-2017-150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/831/Playboi-Carti-English-2017-500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        }
+      ],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "4983031",
+          "name": "Jasper Harris",
+          "url": "https://www.jiosaavn.com/artist/jasper-harris-songs/SebqmRkTr,A_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "1342580",
+          "name": "Camila Cabello",
+          "url": "https://www.jiosaavn.com/artist/camila-cabello-songs/T8rykyjbKe4_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Camila_Cabello_20171208142451_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Camila_Cabello_20171208142451_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Camila_Cabello_20171208142451_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        },
+        {
+          "id": "1983444",
+          "name": "Pablo Diaz-Reixa",
+          "url": "https://www.jiosaavn.com/artist/pablo-diaz-reixa-songs/uY-yso-vEpU_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "1445580",
+          "name": "Jordan Carter",
+          "url": "https://www.jiosaavn.com/artist/jordan-carter-songs/cYGQn9JFUIw_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/522/Tats-English-2017-20171006173253-50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/522/Tats-English-2017-20171006173253-150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/522/Tats-English-2017-20171006173253-500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "513145",
+          "name": "Howard Kaylan",
+          "url": "https://www.jiosaavn.com/artist/howard-kaylan-songs/w,4BwVCTcjE_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "513146",
+          "name": "Mark Volman",
+          "url": "https://www.jiosaavn.com/artist/mark-volman-songs/YniHCoUc5kQ_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "19129944",
+          "name": "Tarik Adolemiui",
+          "url": "https://www.jiosaavn.com/artist/tarik-adolemiui-songs/4hZv9NZmRwg_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "565873",
+          "name": "Radric Davis",
+          "url": "https://www.jiosaavn.com/artist/radric-davis-songs/SJ-zfXB14sQ_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "580556",
+          "name": "Shondrae Crawford",
+          "url": "https://www.jiosaavn.com/artist/shondrae-crawford-songs/GcZgW-8bIbs_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        },
+        {
+          "id": "1659238",
+          "name": "Playboi Carti",
+          "url": "https://www.jiosaavn.com/artist/playboi-carti-songs/uYoFTjJe9yE_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/831/Playboi-Carti-English-2017-50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/831/Playboi-Carti-English-2017-150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/831/Playboi-Carti-English-2017-500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/616/I-LUV-IT-English-2024-20240327223543-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/616/I-LUV-IT-English-2024-20240327223543-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/616/I-LUV-IT-English-2024-20240327223543-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "52708578",
+      "name": "Las Mujeres Ya No Lloran",
+      "year": "",
+      "type": "album",
+      "playCount": "",
+      "language": "english",
+      "explicitContent": "1",
+      "songCount": "0",
+      "url": "https://www.jiosaavn.com/album/las-mujeres-ya-no-lloran/ViVvZoTHcds_",
+      "primaryArtists": [],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "516896",
+          "name": "Shakira",
+          "url": "https://www.jiosaavn.com/artist/shakira-songs/h,lBxNUy,aE_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        },
+        {
+          "id": "516896",
+          "name": "Shakira",
+          "url": "https://www.jiosaavn.com/artist/shakira-songs/h,lBxNUy,aE_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/894/Las-Mujeres-Ya-No-Lloran-Spanish-2024-20240321023533-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/894/Las-Mujeres-Ya-No-Lloran-Spanish-2024-20240321023533-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/894/Las-Mujeres-Ya-No-Lloran-Spanish-2024-20240321023533-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "L6DGHHYZ",
+      "name": "Team Side Feat. RCB",
+      "year": "2024",
+      "type": "song",
+      "playCount": "101212",
+      "language": "english",
+      "explicitContent": "0",
+      "url": "https://www.jiosaavn.com/song/team-side-feat.-rcb/PF4vdjx4bmk",
+      "primaryArtists": [
+        {
+          "id": "1335467",
+          "name": "Alan Walker",
+          "url": "https://www.jiosaavn.com/artist/alan-walker-songs/wbWcxgUNzyo_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Alan_Walker_003_20231116095443_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Alan_Walker_003_20231116095443_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Alan_Walker_003_20231116095443_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        },
+        {
+          "id": "8167371",
+          "name": "Sofiloud",
+          "url": "https://www.jiosaavn.com/artist/sofiloud-songs/DaOvp7Z4hos_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        }
+      ],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "1335467",
+          "name": "Alan Walker",
+          "url": "https://www.jiosaavn.com/artist/alan-walker-songs/wbWcxgUNzyo_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Alan_Walker_003_20231116095443_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Alan_Walker_003_20231116095443_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Alan_Walker_003_20231116095443_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        },
+        {
+          "id": "1625408",
+          "name": "Gunnar Greve",
+          "url": "https://www.jiosaavn.com/artist/gunnar-greve-songs/MYLcGokRN0w_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "1584282",
+          "name": "Fredrik Borch Olsen",
+          "url": "https://www.jiosaavn.com/artist/fredrik-borch-olsen-songs/iq2hSfiwJTE_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "3333917",
+          "name": "Marcus Arnbekk",
+          "url": "https://www.jiosaavn.com/artist/marcus-arnbekk-songs/aAij0Two6rU_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/063/Sawarne-Lage-Tropical-House-Mix-From-Mitron--Hindi-2018-20180912142000-50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/063/Sawarne-Lage-Tropical-House-Mix-From-Mitron--Hindi-2018-20180912142000-150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/063/Sawarne-Lage-Tropical-House-Mix-From-Mitron--Hindi-2018-20180912142000-500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "573891",
+          "name": "Mats Lie Skåre",
+          "url": "https://www.jiosaavn.com/artist/mats-lie-skare-songs/8EiYJglGDbk_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "870139",
+          "name": "Sander Meland",
+          "url": "https://www.jiosaavn.com/artist/sander-meland-songs/l-NAN8PAZWY_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/652/Disclosure-2016-English-2015-50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/652/Disclosure-2016-English-2015-150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/652/Disclosure-2016-English-2015-500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "822581",
+          "name": "Magnus Clausen",
+          "url": "https://www.jiosaavn.com/artist/magnus-clausen-songs/efiC4RSEXbw_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "1314987",
+          "name": "Henrik Sæter",
+          "url": "https://www.jiosaavn.com/artist/henrik-sater-songs/KeKs9VBS3sc_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/108/Pixels-2016-feat-Susanne-Louise-English-2016-50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/108/Pixels-2016-feat-Susanne-Louise-English-2016-150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/108/Pixels-2016-feat-Susanne-Louise-English-2016-500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "music"
+        },
+        {
+          "id": "8167371",
+          "name": "Sofiloud",
+          "url": "https://www.jiosaavn.com/artist/sofiloud-songs/DaOvp7Z4hos_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "4842783",
+          "name": "Lise Reppe",
+          "url": "https://www.jiosaavn.com/artist/lise-reppe-songs/PMQAQSyqRAA_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "822579",
+          "name": "Jesper Borgen",
+          "url": "https://www.jiosaavn.com/artist/jesper-borgen-songs/2odnY,ZN-jQ_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "6733184",
+          "name": "Joey Parki",
+          "url": "https://www.jiosaavn.com/artist/joey-parki-songs/Xfy,ug9M2Ss_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/258/Team-Side-Feat-Rcb-English-2024-20240313152735-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/258/Team-Side-Feat-Rcb-English-2024-20240313152735-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/258/Team-Side-Feat-Rcb-English-2024-20240313152735-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "52442940",
+      "name": "eternal sunshine",
+      "year": "",
+      "type": "album",
+      "playCount": "",
+      "language": "english",
+      "explicitContent": "1",
+      "songCount": "0",
+      "url": "https://www.jiosaavn.com/album/eternal-sunshine/1ZEcf966-PE_",
+      "primaryArtists": [],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "589552",
+          "name": "Ariana Grande",
+          "url": "https://www.jiosaavn.com/artist/ariana-grande-songs/hLOr3AxVxXk_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/036/eternal-sunshine-English-2024-20240308113754-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/036/eternal-sunshine-English-2024-20240308113754-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/036/eternal-sunshine-English-2024-20240308113754-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "XcRp2Z__",
+      "name": "Just Like A Movie",
+      "year": "2024",
+      "type": "song",
+      "playCount": "1706",
+      "language": "english",
+      "explicitContent": "0",
+      "url": "https://www.jiosaavn.com/song/just-like-a-movie/KAs5QUZqaGw",
+      "primaryArtists": [
+        {
+          "id": "1546334",
+          "name": "Prateek Kuhad",
+          "url": "https://www.jiosaavn.com/artist/prateek-kuhad-songs/udEDVH0llw0_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Prateek_Kuhad_005_20230506101352_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Prateek_Kuhad_005_20230506101352_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Prateek_Kuhad_005_20230506101352_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        }
+      ],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "1546334",
+          "name": "Prateek Kuhad",
+          "url": "https://www.jiosaavn.com/artist/prateek-kuhad-songs/udEDVH0llw0_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Prateek_Kuhad_005_20230506101352_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Prateek_Kuhad_005_20230506101352_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Prateek_Kuhad_005_20230506101352_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        },
+        {
+          "id": "1123414",
+          "name": "Gregg Steven Wattenberg",
+          "url": "https://www.jiosaavn.com/artist/gregg-steven-wattenberg-songs/JCa4Jd8bUNU_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/754/Just-Like-A-Movie-English-2024-20240327044730-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/754/Just-Like-A-Movie-English-2024-20240327044730-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/754/Just-Like-A-Movie-English-2024-20240327044730-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "-v4Te5Qr",
+      "name": "Ready",
+      "year": "2024",
+      "type": "song",
+      "playCount": "874",
+      "language": "english",
+      "explicitContent": "0",
+      "url": "https://www.jiosaavn.com/song/ready/XR5fZREFZkE",
+      "primaryArtists": [
+        {
+          "id": "7679801",
+          "name": "Tesher",
+          "url": "https://www.jiosaavn.com/artist/tesher-songs/qarvRHrHaks_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Tesher_000_20210426103258_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Tesher_000_20210426103258_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Tesher_000_20210426103258_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        }
+      ],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "5926053",
+          "name": "Matt Zara",
+          "url": "https://www.jiosaavn.com/artist/matt-zara-songs/pR6gk6a9YgM_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "5933149",
+          "name": "Hitesh Sharma",
+          "url": "https://www.jiosaavn.com/artist/hitesh-sharma-songs/pW8rqCeb4Xo_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/297/Tujhe-Pana-Chahta-Hoon-Hindi-2019-20190610064006-50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/297/Tujhe-Pana-Chahta-Hoon-Hindi-2019-20190610064006-150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/297/Tujhe-Pana-Chahta-Hoon-Hindi-2019-20190610064006-500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "2838544",
+          "name": "Jahson Paynter",
+          "url": "https://www.jiosaavn.com/artist/jahson-paynter-songs/xTX19Rx56e4_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "5020769",
+          "name": "Philip von Boch Scully",
+          "url": "https://www.jiosaavn.com/artist/philip-von-boch-scully-songs/fyAfLQlS2VE_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        },
+        {
+          "id": "7679801",
+          "name": "Tesher",
+          "url": "https://www.jiosaavn.com/artist/tesher-songs/qarvRHrHaks_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Tesher_000_20210426103258_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Tesher_000_20210426103258_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Tesher_000_20210426103258_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/242/Ready-English-2024-20240329063656-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/242/Ready-English-2024-20240329063656-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/242/Ready-English-2024-20240329063656-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "J9UaA0Hk",
+      "name": "Love On",
+      "year": "2024",
+      "type": "song",
+      "playCount": "122111",
+      "language": "english",
+      "explicitContent": "0",
+      "url": "https://www.jiosaavn.com/song/love-on/OlE,UDUAf1g",
+      "primaryArtists": [
+        {
+          "id": "603812",
+          "name": "Selena Gomez",
+          "url": "https://www.jiosaavn.com/artist/selena-gomez-songs/x45oK7RJ2E4_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Selena_Gomez_003_20231023065157_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Selena_Gomez_003_20231023065157_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Selena_Gomez_003_20231023065157_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        }
+      ],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "2743287",
+          "name": "Isaiah Tejada",
+          "url": "https://www.jiosaavn.com/artist/isaiah-tejada-songs/dgCYz3Mtyts_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "603812",
+          "name": "Selena Gomez",
+          "url": "https://www.jiosaavn.com/artist/selena-gomez-songs/x45oK7RJ2E4_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Selena_Gomez_003_20231023065157_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Selena_Gomez_003_20231023065157_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Selena_Gomez_003_20231023065157_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        },
+        {
+          "id": "1825828",
+          "name": "Jordan K. Johnson",
+          "url": "https://www.jiosaavn.com/artist/jordan-k.-johnson-songs/9iT4-qqOwIM_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "672854",
+          "name": "Stefan Johnson",
+          "url": "https://www.jiosaavn.com/artist/stefan-johnson-songs/J2c,DBR4dso_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/613/Sophia-Grace-Rosie-s-Royal-Adventure-English-2014-50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/613/Sophia-Grace-Rosie-s-Royal-Adventure-English-2014-150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/613/Sophia-Grace-Rosie-s-Royal-Adventure-English-2014-500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "672852",
+          "name": "Julia Michaels",
+          "url": "https://www.jiosaavn.com/artist/julia-michaels-songs/OboBJBVTzgs_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Julia_Michaels_20200220103730_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Julia_Michaels_20200220103730_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Julia_Michaels_20200220103730_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "1887754",
+          "name": "Michael Pollack",
+          "url": "https://www.jiosaavn.com/artist/michael-pollack-songs/kdY6-WgNJ5M_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/705/Love-On-English-2024-20240223055004-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/705/Love-On-English-2024-20240223055004-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/705/Love-On-English-2024-20240223055004-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "eDfxPtuK",
+      "name": "Training Season",
+      "year": "2024",
+      "type": "song",
+      "playCount": "109272",
+      "language": "english",
+      "explicitContent": "0",
+      "url": "https://www.jiosaavn.com/song/training-season/FSwNSSREQng",
+      "primaryArtists": [
+        {
+          "id": "1274170",
+          "name": "Dua Lipa",
+          "url": "https://www.jiosaavn.com/artist/dua-lipa-songs/r-OWIKgpX2I_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Dua_Lipa_004_20231120090922_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Dua_Lipa_004_20231120090922_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Dua_Lipa_004_20231120090922_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        }
+      ],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "776593",
+          "name": "Caroline Ailin",
+          "url": "https://www.jiosaavn.com/artist/caroline-ailin-songs/ksTT3ixnrvU_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "1264841",
+          "name": "Danny L Harle",
+          "url": "https://www.jiosaavn.com/artist/danny-l-harle-songs/8uc,o2eYVw8_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/733/Super-Natural-Remixes-English-2016-50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/733/Super-Natural-Remixes-English-2016-150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/733/Super-Natural-Remixes-English-2016-500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "1274170",
+          "name": "Dua Lipa",
+          "url": "https://www.jiosaavn.com/artist/dua-lipa-songs/r-OWIKgpX2I_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Dua_Lipa_004_20231120090922_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Dua_Lipa_004_20231120090922_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Dua_Lipa_004_20231120090922_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        },
+        {
+          "id": "657585",
+          "name": "Kevin Parker",
+          "url": "https://www.jiosaavn.com/artist/kevin-parker-songs/WZROEDcg-u8_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "624325",
+          "name": "Martina Sorbara",
+          "url": "https://www.jiosaavn.com/artist/martina-sorbara-songs/rFL5cWXPvak_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "863412",
+          "name": "Nick Gale",
+          "url": "https://www.jiosaavn.com/artist/nick-gale-songs/KH,ILyLtkIc_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "843801",
+          "name": "Shaun Frank",
+          "url": "https://www.jiosaavn.com/artist/shaun-frank-songs/cltu,ejvgXo_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/109/At-Night-English-2020-20200228121738-50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/109/At-Night-English-2020-20200228121738-150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/109/At-Night-English-2020-20200228121738-500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "18848514",
+          "name": "Steve Francis Richard Mastroianni",
+          "url": "https://www.jiosaavn.com/artist/steve-francis-richard-mastroianni-songs/8E7u-XDZaks_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "1266339",
+          "name": "Tobias Jesso Jr.",
+          "url": "https://www.jiosaavn.com/artist/tobias-jesso-jr.-songs/7n6h1Xoulxc_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "1001578",
+          "name": "Yaakov Gruzman",
+          "url": "https://www.jiosaavn.com/artist/yaakov-gruzman-songs/23GRX98mY90_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/062/Training-Season-English-2024-20240220134756-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/062/Training-Season-English-2024-20240220134756-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/062/Training-Season-English-2024-20240220134756-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "nCgcXfO9",
+      "name": "Doctor (Work It Out)",
+      "year": "2024",
+      "type": "song",
+      "playCount": "42680",
+      "language": "english",
+      "explicitContent": "0",
+      "url": "https://www.jiosaavn.com/song/doctor-work-it-out/HisMUixWeAo",
+      "primaryArtists": [
+        {
+          "id": "522132",
+          "name": "Pharrell Williams",
+          "url": "https://www.jiosaavn.com/artist/pharrell-williams-songs/UKgAQUvEyjc_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Pharrell_Williams_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Pharrell_Williams_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Pharrell_Williams_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        },
+        {
+          "id": "603634",
+          "name": "Miley Cyrus",
+          "url": "https://www.jiosaavn.com/artist/miley-cyrus-songs/FRjYU7Dlr2U_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Miley_Cyrus_002_20240123070949_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Miley_Cyrus_002_20240123070949_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Miley_Cyrus_002_20240123070949_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        }
+      ],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "522132",
+          "name": "Pharrell Williams",
+          "url": "https://www.jiosaavn.com/artist/pharrell-williams-songs/UKgAQUvEyjc_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Pharrell_Williams_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Pharrell_Williams_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Pharrell_Williams_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        },
+        {
+          "id": "603634",
+          "name": "Miley Cyrus",
+          "url": "https://www.jiosaavn.com/artist/miley-cyrus-songs/FRjYU7Dlr2U_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Miley_Cyrus_002_20240123070949_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Miley_Cyrus_002_20240123070949_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Miley_Cyrus_002_20240123070949_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "1887754",
+          "name": "Michael Pollack",
+          "url": "https://www.jiosaavn.com/artist/michael-pollack-songs/kdY6-WgNJ5M_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        },
+        {
+          "id": "18905629",
+          "name": "Pharrell Williams &amp; Miley Cyrus",
+          "url": "https://www.jiosaavn.com/artist/pharrell-williams-miley-cyrus-songs/spxMRjKkZ5Y_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/994/Doctor-Work-It-Out-English-2024-20240227035047-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/994/Doctor-Work-It-Out-English-2024-20240227035047-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/994/Doctor-Work-It-Out-English-2024-20240227035047-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "52910761",
+      "name": "HOPE ON THE STREET VOL.1",
+      "year": "",
+      "type": "album",
+      "playCount": "",
+      "language": "english",
+      "explicitContent": "0",
+      "songCount": "0",
+      "url": "https://www.jiosaavn.com/album/hope-on-the-street-vol.1/jsJiGNO6aAM_",
+      "primaryArtists": [],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "3315422",
+          "name": "J-hope",
+          "url": "https://www.jiosaavn.com/artist/j-hope-songs/HmoQmAZYd0U_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/418/HOPE-ON-THE-STREET-VOL-1-Korean-2024-20240329093424-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/418/HOPE-ON-THE-STREET-VOL-1-Korean-2024-20240329093424-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/418/HOPE-ON-THE-STREET-VOL-1-Korean-2024-20240329093424-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "alZ7kRyc",
+      "name": "FRI(END)S",
+      "year": "2024",
+      "type": "song",
+      "playCount": "48639",
+      "language": "english",
+      "explicitContent": "0",
+      "url": "https://www.jiosaavn.com/song/friends/EQQxBh9iTlA",
+      "primaryArtists": [
+        {
+          "id": "838690",
+          "name": "V",
+          "url": "https://www.jiosaavn.com/artist/v-songs/r11IdHYX7Jw_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/V_001_20231120065901_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/V_001_20231120065901_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/V_001_20231120065901_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        }
+      ],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "887782",
+          "name": "Connor McDonough",
+          "url": "https://www.jiosaavn.com/artist/connor-mcdonough-songs/sXtOpEo2oKU_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "887783",
+          "name": "Riley McDonough",
+          "url": "https://www.jiosaavn.com/artist/riley-mcdonough-songs/conzK2djS,Q_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "10784423",
+          "name": "Ori Rose",
+          "url": "https://www.jiosaavn.com/artist/ori-rose-songs/98p,ICj1YOE_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "777392",
+          "name": "Castle",
+          "url": "https://www.jiosaavn.com/artist/castle-songs/7wYhS7bcHM8_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/921/En-Memoria-feat-Tune-Yards-English-2012-50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/921/En-Memoria-feat-Tune-Yards-English-2012-150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/921/En-Memoria-feat-Tune-Yards-English-2012-500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "8098996",
+          "name": "salem ilese",
+          "url": "https://www.jiosaavn.com/artist/salem-ilese-songs/3IuuGAN5his_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/salem_ilese_000_20221011122729_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/salem_ilese_000_20221011122729_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/salem_ilese_000_20221011122729_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "636139",
+          "name": "Melanie Fontana",
+          "url": "https://www.jiosaavn.com/artist/melanie-fontana-songs/yW2QT9mtqIo_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Melanie_Fontana_000_20201212083559.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Melanie_Fontana_000_20201212083559.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Melanie_Fontana_000_20201212083559.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "8217055",
+          "name": "Michel “Lindgren” Schulz",
+          "url": "https://www.jiosaavn.com/artist/michel-%e2%80%9clindgren%e2%80%9d-schulz-songs/RP0se9uiBtU_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        },
+        {
+          "id": "838690",
+          "name": "V",
+          "url": "https://www.jiosaavn.com/artist/v-songs/r11IdHYX7Jw_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/V_001_20231120065901_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/V_001_20231120065901_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/V_001_20231120065901_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/839/FRI-END-S-English-2024-20240315093316-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/839/FRI-END-S-English-2024-20240315093316-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/839/FRI-END-S-English-2024-20240315093316-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "52516777",
+      "name": "Everything I Thought It Was",
+      "year": "",
+      "type": "album",
+      "playCount": "",
+      "language": "english",
+      "explicitContent": "1",
+      "songCount": "0",
+      "url": "https://www.jiosaavn.com/album/everything-i-thought-it-was/u9fgK61DYmY_",
+      "primaryArtists": [],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "522130",
+          "name": "Justin Timberlake",
+          "url": "https://www.jiosaavn.com/artist/justin-timberlake-songs/WA1w,uEuQFA_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/425/Everything-I-Thought-It-Was-English-2024-20240311225446-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/425/Everything-I-Thought-It-Was-English-2024-20240311225446-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/425/Everything-I-Thought-It-Was-English-2024-20240311225446-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "52732404",
+      "name": "WE DON'T TRUST YOU",
+      "year": "",
+      "type": "album",
+      "playCount": "",
+      "language": "english",
+      "explicitContent": "1",
+      "songCount": "0",
+      "url": "https://www.jiosaavn.com/album/we-dont-trust-you/5Nfzg3VuNc0_",
+      "primaryArtists": [],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "576342",
+          "name": "Future",
+          "url": "https://www.jiosaavn.com/artist/future-songs/4PQNmhO4qlo_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        },
+        {
+          "id": "1001541",
+          "name": "Metro Boomin",
+          "url": "https://www.jiosaavn.com/artist/metro-boomin-songs/Z05uwrBbe1Y_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/382/WE-DON-T-TRUST-YOU-English-2024-20240322031924-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/382/WE-DON-T-TRUST-YOU-English-2024-20240322031924-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/382/WE-DON-T-TRUST-YOU-English-2024-20240322031924-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "byXf6w8M",
+      "name": "What I Am",
+      "year": "2024",
+      "type": "song",
+      "playCount": "29249",
+      "language": "english",
+      "explicitContent": "1",
+      "url": "https://www.jiosaavn.com/song/what-i-am/EhEzV0JHD34",
+      "primaryArtists": [
+        {
+          "id": "1881894",
+          "name": "ZAYN",
+          "url": "https://www.jiosaavn.com/artist/zayn-songs/sG6-OV5nnNU_",
+          "image": false,
+          "type": "artist",
+          "role": "singer"
+        }
+      ],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "755911",
+          "name": "Zain Javadd Malik",
+          "url": "https://www.jiosaavn.com/artist/zain-javadd-malik-songs/AldrxNHCYaw_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        },
+        {
+          "id": "1881894",
+          "name": "ZAYN",
+          "url": "https://www.jiosaavn.com/artist/zayn-songs/sG6-OV5nnNU_",
+          "image": false,
+          "type": "artist",
+          "role": "singer"
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/223/What-I-Am-English-2024-20240315064039-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/223/What-I-Am-English-2024-20240315064039-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/223/What-I-Am-English-2024-20240315064039-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "52594313",
+      "name": "Deeper Well",
+      "year": "",
+      "type": "album",
+      "playCount": "",
+      "language": "english",
+      "explicitContent": "0",
+      "songCount": "0",
+      "url": "https://www.jiosaavn.com/album/deeper-well/u8tTAQTl,Ls_",
+      "primaryArtists": [],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "614629",
+          "name": "Kacey Musgraves",
+          "url": "https://www.jiosaavn.com/artist/kacey-musgraves-songs/VkFfXY8jbFE_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/112/Deeper-Well-English-2024-20240315063919-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/112/Deeper-Well-English-2024-20240315063919-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/112/Deeper-Well-English-2024-20240315063919-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "bimcSyzx",
+      "name": "Von dutch",
+      "year": "2024",
+      "type": "song",
+      "playCount": "12954",
+      "language": "english",
+      "explicitContent": "1",
+      "url": "https://www.jiosaavn.com/song/von-dutch/EgEGUidJTUs",
+      "primaryArtists": [
+        {
+          "id": "701967",
+          "name": "Charli XCX",
+          "url": "https://www.jiosaavn.com/artist/charli-xcx-songs/esXw,Kf0Kbo_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Charli_XCX_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Charli_XCX_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Charli_XCX_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        }
+      ],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "701967",
+          "name": "Charli XCX",
+          "url": "https://www.jiosaavn.com/artist/charli-xcx-songs/esXw,Kf0Kbo_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Charli_XCX_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Charli_XCX_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Charli_XCX_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        },
+        {
+          "id": "689925",
+          "name": "Charlotte Aitchison",
+          "url": "https://www.jiosaavn.com/artist/charlotte-aitchison-songs/aJc3QraTXNw_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/516/Von-dutch-English-2024-20240329014656-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/516/Von-dutch-English-2024-20240329014656-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/516/Von-dutch-English-2024-20240329014656-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "51895985",
+      "name": "Nu King",
+      "year": "",
+      "type": "album",
+      "playCount": "",
+      "language": "english",
+      "explicitContent": "1",
+      "songCount": "0",
+      "url": "https://www.jiosaavn.com/album/nu-king/kzELd3ZeYL4_",
+      "primaryArtists": [],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "712983",
+          "name": "Jason Derulo",
+          "url": "https://www.jiosaavn.com/artist/jason-derulo-songs/LcezFSfSDbQ_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        },
+        {
+          "id": "712983",
+          "name": "Jason Derulo",
+          "url": "https://www.jiosaavn.com/artist/jason-derulo-songs/LcezFSfSDbQ_",
+          "image": false,
+          "type": "artist",
+          "role": "music"
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/656/Nu-King-English-2024-20240302015215-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/656/Nu-King-English-2024-20240302015215-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/656/Nu-King-English-2024-20240302015215-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "zC-a5VP8",
+      "name": "Enough (Miami)",
+      "year": "2024",
+      "type": "song",
+      "playCount": "10093",
+      "language": "english",
+      "explicitContent": "0",
+      "url": "https://www.jiosaavn.com/song/enough-miami/CitGUEFmZws",
+      "primaryArtists": [
+        {
+          "id": "1261541",
+          "name": "Cardi B",
+          "url": "https://www.jiosaavn.com/artist/cardi-b-songs/hWQq3QGVd3g_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Cardi_B_001_20200921152509_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Cardi_B_001_20200921152509_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Cardi_B_001_20200921152509_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        }
+      ],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "1261541",
+          "name": "Cardi B",
+          "url": "https://www.jiosaavn.com/artist/cardi-b-songs/hWQq3QGVd3g_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Cardi_B_001_20200921152509_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Cardi_B_001_20200921152509_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Cardi_B_001_20200921152509_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        },
+        {
+          "id": "1978121",
+          "name": "Belcalis Almanzar",
+          "url": "https://www.jiosaavn.com/artist/belcalis-almanzar-songs/n9eFzBh0I84_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "3844828",
+          "name": "joshua parker",
+          "url": "https://www.jiosaavn.com/artist/joshua-parker-songs/S0oLM,lg050_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "2432400",
+          "name": "Terence Williams",
+          "url": "https://www.jiosaavn.com/artist/terence-williams-songs/7JrxbqogIoY_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/916/Fucking-Life-French-2018-20181011212904-50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/916/Fucking-Life-French-2018-20181011212904-150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/916/Fucking-Life-French-2018-20181011212904-500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": ""
+        },
+        {
+          "id": "7070877",
+          "name": "James D. Steed",
+          "url": "https://www.jiosaavn.com/artist/james-d.-steed-songs/RRMnHWz6cH0_",
+          "image": false,
+          "type": "artist",
+          "role": ""
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/130/Enough-Miami-English-2024-20240314045329-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/130/Enough-Miami-English-2024-20240314045329-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/130/Enough-Miami-English-2024-20240314045329-500x500.jpg"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "p7TeRPZ6",
+      "name": "Next Semester",
+      "year": "2024",
+      "type": "song",
+      "playCount": "341",
+      "language": "english",
+      "explicitContent": "0",
+      "url": "https://www.jiosaavn.com/song/next-semester/AF8-VCZgbQU",
+      "primaryArtists": [
+        {
+          "id": "720746",
+          "name": "Twenty One Pilots",
+          "url": "https://www.jiosaavn.com/artist/twenty-one-pilots-songs/Dx5Vty3hXGs_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Twenty_One_Pilots_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Twenty_One_Pilots_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Twenty_One_Pilots_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        }
+      ],
+      "featuredArtists": [],
+      "artists": [
+        {
+          "id": "720746",
+          "name": "Twenty One Pilots",
+          "url": "https://www.jiosaavn.com/artist/twenty-one-pilots-songs/Dx5Vty3hXGs_",
+          "image": [
+            {
+              "quality": "50x50",
+              "link": "https://c.saavncdn.com/artists/Twenty_One_Pilots_50x50.jpg"
+            },
+            {
+              "quality": "150x150",
+              "link": "https://c.saavncdn.com/artists/Twenty_One_Pilots_150x150.jpg"
+            },
+            {
+              "quality": "500x500",
+              "link": "https://c.saavncdn.com/artists/Twenty_One_Pilots_500x500.jpg"
+            }
+          ],
+          "type": "artist",
+          "role": "singer"
+        }
+      ],
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/167/Next-Semester-English-2024-20240324194952-50x50.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/167/Next-Semester-English-2024-20240324194952-150x150.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/167/Next-Semester-English-2024-20240324194952-500x500.jpg"
+        }
+      ],
+      "songs": []
+    }
+  ],
+  "playlists": [
+    {
+      "id": "107320028",
+      "userId": "phulki_user",
+      "title": "Fresh K-Pop Hits",
+      "subtitle": "36.9K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/FreshKPopHits_20240315113124.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/FreshKPopHits_20240315113124.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/FreshKPopHits_20240315113124.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/fresh-k-pop-hits/qmcsGAI9mRFFo9wdEAzFBA__",
+      "songCount": "30",
+      "firstname": "JioSaavn",
+      "followerCount": "36906",
+      "lastUpdated": "1711688059",
+      "explicitContent": "0"
+    },
+    {
+      "id": "156783012",
+      "userId": "phulki_user",
+      "title": "Let's Play - Jason Derulo",
+      "subtitle": "1K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/Let_sPlayJasonDerulo_20230915144556.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/Let_sPlayJasonDerulo_20230915144556.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/Let_sPlayJasonDerulo_20230915144556.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/lets-play-jason-derulo/n3kV7hmv9UTc1EngHtQQ2g__",
+      "songCount": "30",
+      "firstname": "JioSaavn",
+      "followerCount": "1022",
+      "lastUpdated": "1695217848",
+      "explicitContent": "0"
+    },
+    {
+      "id": "33085749",
+      "userId": "phulki_user",
+      "title": "90s Boy Bands",
+      "subtitle": "8.5K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/90sBoyBands_20230831155104.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/90sBoyBands_20230831155104.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/90sBoyBands_20230831155104.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/90s-boy-bands/GJYfME1bv,4_",
+      "songCount": "35",
+      "firstname": "JioSaavn",
+      "followerCount": "8499",
+      "lastUpdated": "1708993857",
+      "explicitContent": "0"
+    },
+    {
+      "id": "48189087",
+      "userId": "phulki_user",
+      "title": "English Viral Hits",
+      "subtitle": "Just Updated",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/EnglishViralHits_20240327121142.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/EnglishViralHits_20240327121142.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/EnglishViralHits_20240327121142.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/english-viral-hits/pm49jiq,CNs_",
+      "songCount": "20",
+      "firstname": "JioSaavn",
+      "followerCount": "133003",
+      "lastUpdated": "1711902668",
+      "explicitContent": "0"
+    },
+    {
+      "id": "88850418",
+      "userId": "phulki_user",
+      "title": "House Party - English",
+      "subtitle": "6.8K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/HousePartyEnglish_20231117131455.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/HousePartyEnglish_20231117131455.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/HousePartyEnglish_20231117131455.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/house-party-english/IPm9oKHppSA_",
+      "songCount": "50",
+      "firstname": "JioSaavn",
+      "followerCount": "6772",
+      "lastUpdated": "1711514729",
+      "explicitContent": "0"
+    },
+    {
+      "id": "59583701",
+      "userId": "phulki_user",
+      "title": "Let's Play - Bob Marley",
+      "subtitle": "2.4K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/logo/BobMarleyATribute_20210128182858.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/logo/BobMarleyATribute_20210128182858.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/logo/BobMarleyATribute_20210128182858.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/lets-play-bob-marley/uGrA,YVqqn4_",
+      "songCount": "20",
+      "firstname": "JioSaavn",
+      "followerCount": "2403",
+      "lastUpdated": "1665103305",
+      "explicitContent": "0"
+    },
+    {
+      "id": "208571376",
+      "userId": "phulki_user",
+      "title": "Hip Hop Dance Hits",
+      "subtitle": "10.4K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/HipHopDanceHits_20231027032014.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/HipHopDanceHits_20231027032014.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/HipHopDanceHits_20231027032014.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/hip-hop-dance-hits/oLEjsCVbtfLfemJ68FuXsA__",
+      "songCount": "50",
+      "firstname": "JioSaavn",
+      "followerCount": "10412",
+      "lastUpdated": "1708989407",
+      "explicitContent": "0"
+    },
+    {
+      "id": "87000197",
+      "userId": "phulki_user",
+      "title": "Essential Soft Pop",
+      "subtitle": "13.8K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/EssentialSoftPop_20240207094634.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/EssentialSoftPop_20240207094634.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/EssentialSoftPop_20240207094634.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/essential-soft-pop/vw3rxyOhUs8_",
+      "songCount": "30",
+      "firstname": "JioSaavn",
+      "followerCount": "13806",
+      "lastUpdated": "1711515038",
+      "explicitContent": "0"
+    },
+    {
+      "id": "103330336",
+      "userId": "phulki_user",
+      "title": "Let's Play - Guns N' Roses",
+      "subtitle": "815 Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/logo/GunsNRosesSweetChildOfRock_20210128183014.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/logo/GunsNRosesSweetChildOfRock_20210128183014.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/logo/GunsNRosesSweetChildOfRock_20210128183014.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/lets-play-guns-n-roses/,D5AGmHaiw7femJ68FuXsA__",
+      "songCount": "22",
+      "firstname": "JioSaavn",
+      "followerCount": "815",
+      "lastUpdated": "1644054658",
+      "explicitContent": "0"
+    },
+    {
+      "id": "103330400",
+      "userId": "phulki_user",
+      "title": "Fresh Rock Hits - English",
+      "subtitle": "9.6K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/FreshRockHitsEnglish_20240329115954.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/FreshRockHitsEnglish_20240329115954.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/FreshRockHitsEnglish_20240329115954.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/fresh-rock-hits-english/LlG94Or10VVuOxiEGmm6lQ__",
+      "songCount": "30",
+      "firstname": "JioSaavn",
+      "followerCount": "9643",
+      "lastUpdated": "1711688740",
+      "explicitContent": "0"
+    },
+    {
+      "id": "84902960",
+      "userId": "phulki_user",
+      "title": "Treadmill Pop",
+      "subtitle": "12.5K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/TreadmillPop_20231208140210.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/TreadmillPop_20231208140210.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/TreadmillPop_20231208140210.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/treadmill-pop/SF9VDfc5vr4_",
+      "songCount": "30",
+      "firstname": "JioSaavn",
+      "followerCount": "12479",
+      "lastUpdated": "1710970612",
+      "explicitContent": "0"
+    },
+    {
+      "id": "151505252",
+      "userId": "phulki_user",
+      "title": "Let's Play - Backstreet Boys",
+      "subtitle": "1.9K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/logo/LargerThanLifeBackstreetBoys_20211110040933.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/logo/LargerThanLifeBackstreetBoys_20211110040933.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/logo/LargerThanLifeBackstreetBoys_20211110040933.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/lets-play-backstreet-boys/ACUx,3lyMEfc1EngHtQQ2g__",
+      "songCount": "25",
+      "firstname": "JioSaavn",
+      "followerCount": "1889",
+      "lastUpdated": "1690254728",
+      "explicitContent": "0"
+    },
+    {
+      "id": "84909952",
+      "userId": "phulki_user",
+      "title": "Retro Workout",
+      "subtitle": "3.4K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/ThrowbackThrust_20220427182658.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/ThrowbackThrust_20220427182658.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/ThrowbackThrust_20220427182658.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/retro-workout/xfuqSXKF,Ao_",
+      "songCount": "30",
+      "firstname": "JioSaavn",
+      "followerCount": "3399",
+      "lastUpdated": "1705367458",
+      "explicitContent": "0"
+    },
+    {
+      "id": "146434735",
+      "userId": "phulki_user",
+      "title": "Fresh Latin Hits",
+      "subtitle": "18.1K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/FreshLatinHits_20240329115503.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/FreshLatinHits_20240329115503.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/FreshLatinHits_20240329115503.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/fresh-latin-hits/iZf3wDHw2nTuCJW60TJk1Q__",
+      "songCount": "30",
+      "firstname": "JioSaavn",
+      "followerCount": "18091",
+      "lastUpdated": "1711688341",
+      "explicitContent": "0"
+    },
+    {
+      "id": "442379728",
+      "userId": "phulki_user",
+      "title": "Best of Afrobeat",
+      "subtitle": "2.7K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/TheSoundOfAfrobeat_20240312060158.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/TheSoundOfAfrobeat_20240312060158.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/TheSoundOfAfrobeat_20240312060158.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/best-of-afrobeat/QyqPhVd4ZFhFo9wdEAzFBA__",
+      "songCount": "24",
+      "firstname": "JioSaavn",
+      "followerCount": "2732",
+      "lastUpdated": "1710802881",
+      "explicitContent": "0"
+    },
+    {
+      "id": "794970240",
+      "userId": "phulki_user",
+      "title": "English Hits - 1969",
+      "subtitle": "288 Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/logo/EnglishHits1969_20200520142009.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/logo/EnglishHits1969_20200520142009.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/logo/EnglishHits1969_20200520142009.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/english-hits-1969/16S8K3O6Nw1uOxiEGmm6lQ__",
+      "songCount": "20",
+      "firstname": "JioSaavn",
+      "followerCount": "288",
+      "lastUpdated": "1614760231",
+      "explicitContent": "0"
+    },
+    {
+      "id": "741760391",
+      "userId": "phulki_user",
+      "title": "80s Romance - English",
+      "subtitle": "3K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/80sRomanceEnglish_20240304111548.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/80sRomanceEnglish_20240304111548.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/80sRomanceEnglish_20240304111548.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/80s-romance-english/G5BejXQjQ-gGSw2I1RxdhQ__",
+      "songCount": "35",
+      "firstname": "JioSaavn",
+      "followerCount": "3032",
+      "lastUpdated": "1709522164",
+      "explicitContent": "0"
+    },
+    {
+      "id": "85714422",
+      "userId": "phulki_user",
+      "title": "Best Remixes - English",
+      "subtitle": "2.8K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/BestRemixesEnglish_20231025100158.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/BestRemixesEnglish_20231025100158.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/BestRemixesEnglish_20231025100158.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/best-remixes-english/vmU7Qe,EtZg_",
+      "songCount": "45",
+      "firstname": "JioSaavn",
+      "followerCount": "2795",
+      "lastUpdated": "1704839972",
+      "explicitContent": "0"
+    },
+    {
+      "id": "156224843",
+      "userId": "phulki_user",
+      "title": "Let's Play - ABBA",
+      "subtitle": "315 Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/logo/AllAboutABBA_20210904044159.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/logo/AllAboutABBA_20210904044159.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/logo/AllAboutABBA_20210904044159.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/lets-play-abba/f7S3wxqF,7gwkg5tVhI3fw__",
+      "songCount": "25",
+      "firstname": "JioSaavn",
+      "followerCount": "315",
+      "lastUpdated": "1675742927",
+      "explicitContent": "0"
+    },
+    {
+      "id": "81169234",
+      "userId": "phulki_user",
+      "title": "Now Playing Pop",
+      "subtitle": "180.3K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/NowPlayingPop_20240320070942.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/NowPlayingPop_20240320070942.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/NowPlayingPop_20240320070942.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/now-playing-pop/IQO11xk800E_",
+      "songCount": "30",
+      "firstname": "JioSaavn",
+      "followerCount": "180250",
+      "lastUpdated": "1711673590",
+      "explicitContent": "0"
+    },
+    {
+      "id": "102635026",
+      "userId": "phulki_user",
+      "title": "Rainy Day Rock",
+      "subtitle": "3K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/RainyDayRock_20230628072900.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/RainyDayRock_20230628072900.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/RainyDayRock_20230628072900.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/rainy-day-rock/dJHXbtH,ADnfemJ68FuXsA__",
+      "songCount": "35",
+      "firstname": "JioSaavn",
+      "followerCount": "3048",
+      "lastUpdated": "1688531966",
+      "explicitContent": "0"
+    },
+    {
+      "id": "52312344",
+      "userId": "phulki_user",
+      "title": "Let's Play - Justin Bieber",
+      "subtitle": "48.5K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/Let_sPlayJustinBieber_20231004094221.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/Let_sPlayJustinBieber_20231004094221.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/Let_sPlayJustinBieber_20231004094221.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/lets-play-justin-bieber/fHF5W2y22Wc_",
+      "songCount": "50",
+      "firstname": "JioSaavn",
+      "followerCount": "48497",
+      "lastUpdated": "1708310293",
+      "explicitContent": "0"
+    },
+    {
+      "id": "73399784",
+      "userId": "phulki_user",
+      "title": "Ultimate Workout  Mix",
+      "subtitle": "82.3K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/SeptemberWorkoutMix_20220930182833.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/SeptemberWorkoutMix_20220930182833.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/SeptemberWorkoutMix_20220930182833.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/ultimate-workout-mix/T0Uq4vn2byc_",
+      "songCount": "30",
+      "firstname": "JioSaavn",
+      "followerCount": "82287",
+      "lastUpdated": "1709513730",
+      "explicitContent": "0"
+    },
+    {
+      "id": "81304811",
+      "userId": "phulki_user",
+      "title": "Love Hurts",
+      "subtitle": "30.3K Followers",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/LoveHurts_20240313062725.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/LoveHurts_20240313062725.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/LoveHurts_20240313062725.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/love-hurts/G13cNqMLwqM_",
+      "songCount": "30",
+      "firstname": "JioSaavn",
+      "followerCount": "30325",
+      "lastUpdated": "1711673569",
+      "explicitContent": "0"
+    }
+  ],
+  "charts": [
+    {
+      "id": "110858205",
+      "title": "Trending Today",
+      "subtitle": "JioSaavn",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/charts_TrendingToday_134351_20230826113717.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/charts_TrendingToday_134351_20230826113717.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/charts_TrendingToday_134351_20230826113717.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/trending-today/I3kvhipIy73uCJW60TJk1Q__",
+      "firstname": "JioSaavn",
+      "explicitContent": "0",
+      "language": "english"
+    },
+    {
+      "id": "61969868",
+      "title": "International Charts",
+      "subtitle": "JioSaavn",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/charts_InternationalCharts_143799_20220315153513.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/charts_InternationalCharts_143799_20220315153513.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/charts_InternationalCharts_143799_20220315153513.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/international-charts/DjLfyo0wfbk_",
+      "firstname": "JioSaavn",
+      "explicitContent": "0",
+      "language": "english"
+    },
+    {
+      "id": "142311985",
+      "title": "EDM Hot 40",
+      "subtitle": "JioSaavn",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/charts_EDMHot40_150598_20220315153607.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/charts_EDMHot40_150598_20220315153607.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/charts_EDMHot40_150598_20220315153607.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/edm-hot-40/m9Qkal5S733uCJW60TJk1Q__",
+      "firstname": "JioSaavn",
+      "explicitContent": "0",
+      "language": "english"
+    },
+    {
+      "id": "845149969",
+      "title": "Romantic Top 40 - English",
+      "subtitle": "JioSaavn",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/charts_RomanticTop40-English_158417_20220315153203.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/charts_RomanticTop40-English_158417_20220315153203.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/charts_RomanticTop40-English_158417_20220315153203.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/romantic-top-40-english/jVmOAc1aK2OO0eMLZZxqsA__",
+      "firstname": "JioSaavn",
+      "explicitContent": "0",
+      "language": "english"
+    },
+    {
+      "id": "82711685",
+      "title": "English Retro",
+      "subtitle": "JioSaavn",
+      "type": "playlist",
+      "image": [
+        {
+          "quality": "50x50",
+          "link": "https://c.saavncdn.com/editorial/charts_EnglishRetro_174284_20220315154327.jpg"
+        },
+        {
+          "quality": "150x150",
+          "link": "https://c.saavncdn.com/editorial/charts_EnglishRetro_174284_20220315154327.jpg"
+        },
+        {
+          "quality": "500x500",
+          "link": "https://c.saavncdn.com/editorial/charts_EnglishRetro_174284_20220315154327.jpg"
+        }
+      ],
+      "url": "https://www.jiosaavn.com/featured/english-retro/zp3o7OIx1fo_",
+      "firstname": "JioSaavn",
+      "explicitContent": "0",
+      "language": "english"
+    }
+  ],
+  "trending": {
+    "songs": [
+      {
+        "id": "fTWZGuiu",
+        "name": "Mary On A Cross",
+        "type": "song",
+        "album": {
+          "id": "17253567",
+          "name": "Seven Inches Of Satanic Panic",
+          "url": "https://www.jiosaavn.com/album/seven-inches-of-satanic-panic/8GxKTC7iopo_"
+        },
+        "year": "2019",
+        "releaseDate": "2019-09-13",
+        "duration": "248",
+        "label": "Loma Vista Recordings",
+        "primaryArtists": [
+          {
+            "id": "651795",
+            "name": "Ghost",
+            "url": "https://www.jiosaavn.com/artist/ghost-songs/8brcYMBIbhY_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/578/Cirice-English-2015-50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/578/Cirice-English-2015-150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/578/Cirice-English-2015-500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": "singer"
+          }
+        ],
+        "featuredArtists": [],
+        "explicitContent": "0",
+        "playCount": "1722600",
+        "language": "english",
+        "url": "https://www.jiosaavn.com/s/song/english/seven-inches-of-satanic-panic/mary-on-a-cross/Fjw8azNFXkY",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/876/Seven-Inches-Of-Satanic-Panic-English-2019-20190913033328-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/876/Seven-Inches-Of-Satanic-Panic-English-2019-20190913033328-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/876/Seven-Inches-Of-Satanic-Panic-English-2019-20190913033328-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "QW2Cc9f_",
+        "name": "Ignite",
+        "type": "song",
+        "album": {
+          "id": "12806077",
+          "name": "Ignite",
+          "url": "https://www.jiosaavn.com/album/ignite/VpAc4ZwKqsk_"
+        },
+        "year": "2018",
+        "releaseDate": "2018-05-11",
+        "duration": "210",
+        "label": "Kreatell Music",
+        "primaryArtists": [
+          {
+            "id": "1335467",
+            "name": "Alan Walker",
+            "url": "https://www.jiosaavn.com/artist/alan-walker-songs/wbWcxgUNzyo_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/Alan_Walker_003_20231116095443_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/Alan_Walker_003_20231116095443_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/Alan_Walker_003_20231116095443_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": "singer"
+          },
+          {
+            "id": "850926",
+            "name": "K-391",
+            "url": "https://www.jiosaavn.com/artist/k-391-songs/3BXccUeojtY_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/K_391_001_20231023065521_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/K_391_001_20231023065521_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/K_391_001_20231023065521_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": ""
+          },
+          {
+            "id": "716322",
+            "name": "Julie Bergan",
+            "url": "https://www.jiosaavn.com/artist/julie-bergan-songs/XjATPNgsc9E_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/Julie_Bergan_20191130065347_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/Julie_Bergan_20191130065347_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/Julie_Bergan_20191130065347_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": ""
+          }
+        ],
+        "featuredArtists": [],
+        "explicitContent": "0",
+        "playCount": "31942410",
+        "language": "english",
+        "url": "https://www.jiosaavn.com/s/song/english/ignite/ignite/IT9ZchcJUWw",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/014/Ignite-English-2018-20180615143214-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/014/Ignite-English-2018-20180615143214-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/014/Ignite-English-2018-20180615143214-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "lvrutppE",
+        "name": "Peaky Blinder",
+        "type": "song",
+        "album": {
+          "id": "30244769",
+          "name": "Peaky Blinder",
+          "url": "https://www.jiosaavn.com/album/peaky-blinder/7YICTt4ym5w_"
+        },
+        "year": "2021",
+        "releaseDate": "2021-11-12",
+        "duration": "159",
+        "label": "Lithuania Hq",
+        "primaryArtists": [
+          {
+            "id": "1809548",
+            "name": "Otnicka",
+            "url": "https://www.jiosaavn.com/artist/otnicka-songs/4xiFONZpsCo_",
+            "image": false,
+            "type": "artist",
+            "role": "singer"
+          },
+          {
+            "id": "8780812",
+            "name": "Duke Luke",
+            "url": "https://www.jiosaavn.com/artist/duke-luke-songs/ht3vCIjWWhs_",
+            "image": false,
+            "type": "artist",
+            "role": ""
+          }
+        ],
+        "featuredArtists": [],
+        "explicitContent": "0",
+        "playCount": "2501263",
+        "language": "english",
+        "url": "https://www.jiosaavn.com/s/song/english/peaky-blinder/peaky-blinder/HB4ZRABAR3Y",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/982/Peaky-Blinder-English-2021-20211012220246-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/982/Peaky-Blinder-English-2021-20211012220246-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/982/Peaky-Blinder-English-2021-20211012220246-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "3E8z9Phg",
+        "name": "Venom (Music From The Motion Picture)",
+        "type": "song",
+        "album": {
+          "id": "13912139",
+          "name": "Venom (Music From The Motion Picture)",
+          "url": "https://www.jiosaavn.com/album/venom-music-from-the-motion-picture/3ycn5FbqpBw_"
+        },
+        "year": "2018",
+        "releaseDate": "2018-09-21",
+        "duration": "270",
+        "label": "Aftermath",
+        "primaryArtists": [
+          {
+            "id": "610240",
+            "name": "Eminem",
+            "url": "https://www.jiosaavn.com/artist/eminem-songs/-f6Su9-0agk_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/Eminem_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/Eminem_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/Eminem_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": "singer"
+          }
+        ],
+        "featuredArtists": [],
+        "explicitContent": "1",
+        "playCount": "8875155",
+        "language": "english",
+        "url": "https://www.jiosaavn.com/s/song/english/venom-music-from-the-motion-picture/venom-music-from-the-motion-picture/Qy1TS01gX1Q",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/897/Venom-Music-From-The-Motion-Picture--English-2018-20180919230507-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/897/Venom-Music-From-The-Motion-Picture--English-2018-20180919230507-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/897/Venom-Music-From-The-Motion-Picture--English-2018-20180919230507-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "vNHOy1QC",
+        "name": "Love Story (Taylor’s Version)",
+        "type": "song",
+        "album": {
+          "id": "25292521",
+          "name": "Love Story (Taylor’s Version)",
+          "url": "https://www.jiosaavn.com/album/love-story-taylor%e2%80%99s-version/cdS9aWEy3EU_"
+        },
+        "year": "2021",
+        "releaseDate": "2021-02-12",
+        "duration": "235",
+        "label": "Taylor Swift",
+        "primaryArtists": [
+          {
+            "id": "565990",
+            "name": "Taylor Swift",
+            "url": "https://www.jiosaavn.com/artist/taylor-swift-songs/bQVPhRbZO1I_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/Taylor_Swift_003_20200226074119_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/Taylor_Swift_003_20200226074119_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/Taylor_Swift_003_20200226074119_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": "singer"
+          }
+        ],
+        "featuredArtists": [],
+        "explicitContent": "0",
+        "playCount": "6466054",
+        "language": "english",
+        "url": "https://www.jiosaavn.com/s/song/english/love-story-taylor%e2%80%99s-version/love-story-taylor%e2%80%99s-version/BiYjfg0BZnA",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/657/Love-Story-Taylor-s-Version--English-2021-20210212103906-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/657/Love-Story-Taylor-s-Version--English-2021-20210212103906-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/657/Love-Story-Taylor-s-Version--English-2021-20210212103906-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "MfteuUKJ",
+        "name": "Dance Monkey",
+        "type": "song",
+        "album": {
+          "id": "16842952",
+          "name": "Dance Monkey",
+          "url": "https://www.jiosaavn.com/album/dance-monkey/IN6pcYDafL8_"
+        },
+        "year": "2019",
+        "releaseDate": "2019-08-08",
+        "duration": "209",
+        "label": "Elektra (NEK)",
+        "primaryArtists": [
+          {
+            "id": "6008583",
+            "name": "Tones and I",
+            "url": "https://www.jiosaavn.com/artist/tones-and-i-songs/GdeSC4M1uYo_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/Tones_and_I_20200117142617_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/Tones_and_I_20200117142617_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/Tones_and_I_20200117142617_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": ""
+          }
+        ],
+        "featuredArtists": [],
+        "explicitContent": "0",
+        "playCount": "20231858",
+        "language": "english",
+        "url": "https://www.jiosaavn.com/s/song/english/dance-monkey/dance-monkey/PQ4fVAFlfHk",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/872/Dance-Monkey-English-2019-20190809200234-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/872/Dance-Monkey-English-2019-20190809200234-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/872/Dance-Monkey-English-2019-20190809200234-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "dvDOyl1h",
+        "name": "MIDDLE OF THE NIGHT",
+        "type": "song",
+        "album": {
+          "id": "18537519",
+          "name": "MIDDLE OF THE NIGHT",
+          "url": "https://www.jiosaavn.com/album/middle-of-the-night/CoZvguPrfY8_"
+        },
+        "year": "2020",
+        "releaseDate": "2020-01-10",
+        "duration": "181",
+        "label": "Not Fit For Society/RCA Records",
+        "primaryArtists": [
+          {
+            "id": "1992504",
+            "name": "Elley Duhe",
+            "url": "https://www.jiosaavn.com/artist/elley-duhe-songs/djVy4zV9yTM_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/Elley_Duhe_000_20230829065931_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/Elley_Duhe_000_20230829065931_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/Elley_Duhe_000_20230829065931_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": "singer"
+          }
+        ],
+        "featuredArtists": [],
+        "explicitContent": "0",
+        "playCount": "15094523",
+        "language": "english",
+        "url": "https://www.jiosaavn.com/s/song/english/middle-of-the-night/middle-of-the-night/FB4vfg1cBls",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/087/MIDDLE-OF-THE-NIGHT-English-2020-20200210192336-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/087/MIDDLE-OF-THE-NIGHT-English-2020-20200210192336-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/087/MIDDLE-OF-THE-NIGHT-English-2020-20200210192336-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "Jo4IdGXK",
+        "name": "METAMORPHOSIS",
+        "type": "song",
+        "album": {
+          "id": "32923261",
+          "name": "METAMORPHOSIS",
+          "url": "https://www.jiosaavn.com/album/metamorphosis/Rhrh4-92XZM_"
+        },
+        "year": "2021",
+        "releaseDate": "2021-11-25",
+        "duration": "142",
+        "label": "Interworld",
+        "primaryArtists": [
+          {
+            "id": "10225269",
+            "name": "INTERWORLD",
+            "url": "https://www.jiosaavn.com/artist/interworld-songs/6Hz29P19118_",
+            "image": false,
+            "type": "artist",
+            "role": "singer"
+          }
+        ],
+        "featuredArtists": [],
+        "explicitContent": "1",
+        "playCount": "2869429",
+        "language": "english",
+        "url": "https://www.jiosaavn.com/s/song/english/metamorphosis/metamorphosis/OgdfeBB3b3g",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/221/METAMORPHOSIS-English-2021-20220215012012-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/221/METAMORPHOSIS-English-2021-20220215012012-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/221/METAMORPHOSIS-English-2021-20220215012012-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "8BsyRlFY",
+        "name": "Alone, Pt. II",
+        "type": "song",
+        "album": {
+          "id": "18273908",
+          "name": "Alone, Pt. II",
+          "url": "https://www.jiosaavn.com/album/alone-pt.-ii/ZCqviQsE5dI_"
+        },
+        "year": "2019",
+        "releaseDate": "2019-12-27",
+        "duration": "179",
+        "label": "Kreatell Music",
+        "primaryArtists": [
+          {
+            "id": "1335467",
+            "name": "Alan Walker",
+            "url": "https://www.jiosaavn.com/artist/alan-walker-songs/wbWcxgUNzyo_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/Alan_Walker_003_20231116095443_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/Alan_Walker_003_20231116095443_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/Alan_Walker_003_20231116095443_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": "singer"
+          },
+          {
+            "id": "3685366",
+            "name": "Ava Max",
+            "url": "https://www.jiosaavn.com/artist/ava-max-songs/ExpLP,ur0tw_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/Ava_Max_20190322070605_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/Ava_Max_20190322070605_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/Ava_Max_20190322070605_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": ""
+          }
+        ],
+        "featuredArtists": [],
+        "explicitContent": "0",
+        "playCount": "15179975",
+        "language": "english",
+        "url": "https://www.jiosaavn.com/s/song/english/alone-pt.-ii/alone-pt.-ii/SCoYSCZccWo",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/574/Alone-Pt-II-English-2019-20191210153050-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/574/Alone-Pt-II-English-2019-20191210153050-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/574/Alone-Pt-II-English-2019-20191210153050-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "JdJ_osp0",
+        "name": "Houdini",
+        "type": "song",
+        "album": {
+          "id": "49599287",
+          "name": "Houdini",
+          "url": "https://www.jiosaavn.com/album/houdini/YKL-I3to3Oc_"
+        },
+        "year": "2023",
+        "releaseDate": "2023-11-09",
+        "duration": "185",
+        "label": "Warner Records",
+        "primaryArtists": [
+          {
+            "id": "1274170",
+            "name": "Dua Lipa",
+            "url": "https://www.jiosaavn.com/artist/dua-lipa-songs/r-OWIKgpX2I_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/Dua_Lipa_004_20231120090922_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/Dua_Lipa_004_20231120090922_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/Dua_Lipa_004_20231120090922_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": "singer"
+          }
+        ],
+        "featuredArtists": [],
+        "explicitContent": "0",
+        "playCount": "1741120",
+        "language": "english",
+        "url": "https://www.jiosaavn.com/s/song/english/houdini/houdini/OgwhbhtDRwM",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/091/Houdini-English-2023-20231110015054-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/091/Houdini-English-2023-20231110015054-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/091/Houdini-English-2023-20231110015054-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "HtWvQ-bx",
+        "name": "Dandelions",
+        "type": "song",
+        "album": {
+          "id": "10663733",
+          "name": "Dandelions",
+          "url": "https://www.jiosaavn.com/album/dandelions/bGHRxBdMT2E_"
+        },
+        "year": "2017",
+        "releaseDate": "2017-04-28",
+        "duration": "233",
+        "label": "Columbia",
+        "primaryArtists": [
+          {
+            "id": "1892029",
+            "name": "Ruth B.",
+            "url": "https://www.jiosaavn.com/artist/ruth-b.-songs/nO02r5ZHlGo_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/Ruth_B__000_20230829070409_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/Ruth_B__000_20230829070409_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/Ruth_B__000_20230829070409_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": "singer"
+          }
+        ],
+        "featuredArtists": [],
+        "explicitContent": "0",
+        "playCount": "12862287",
+        "language": "english",
+        "url": "https://www.jiosaavn.com/s/song/english/dandelions/dandelions/OBw8RyUdVUs",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/400/Dandelions-English-2017-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/400/Dandelions-English-2017-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/400/Dandelions-English-2017-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "rVRNm-df",
+        "name": "Apocalypse",
+        "type": "song",
+        "album": {
+          "id": "10484816",
+          "name": "Apocalypse",
+          "url": "https://www.jiosaavn.com/album/apocalypse/wp9A35C2QZY_"
+        },
+        "year": "2017",
+        "releaseDate": "2017-03-21",
+        "duration": "290",
+        "label": "Partisan Records",
+        "primaryArtists": [
+          {
+            "id": "2435211",
+            "name": "Cigarettes After Sex",
+            "url": "https://www.jiosaavn.com/artist/cigarettes-after-sex-songs/1uqviPPdfUM_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/Cigarettes_After_Sex_001_20240228131346_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/Cigarettes_After_Sex_001_20240228131346_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/Cigarettes_After_Sex_001_20240228131346_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": "singer"
+          }
+        ],
+        "featuredArtists": [],
+        "explicitContent": "0",
+        "playCount": "6540142",
+        "language": "english",
+        "url": "https://www.jiosaavn.com/s/song/english/apocalypse/apocalypse/Aj45fxkdU1U",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/407/Apocalypse-English-2017-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/407/Apocalypse-English-2017-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/407/Apocalypse-English-2017-500x500.jpg?bch=475537"
+          }
+        ]
+      }
+    ],
+    "albums": [
+      {
+        "id": "40162752",
+        "name": "Heavy Rain &amp; Thunderstorm for Deeper Sleep",
+        "type": "album",
+        "year": "",
+        "releaseDate": "2022-11-18",
+        "playCount": "",
+        "language": "english",
+        "explicitContent": "0",
+        "songCount": "7",
+        "url": "https://www.jiosaavn.com/s/album/english/heavy-rain-thunderstorm-for-deeper-sleep-2022/PLXv,jthYMA_",
+        "primaryArtists": [],
+        "featuredArtists": [],
+        "artists": [
+          {
+            "id": "14668306",
+            "name": "Heavy Rain &amp; Thunderstorm for Deeper Sleep",
+            "url": "https://www.jiosaavn.com/artist/heavy-rain-thunderstorm-for-deeper-sleep-songs/dR6byNU2ihI_",
+            "image": false,
+            "type": "artist",
+            "role": ""
+          }
+        ],
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/259/Heavy-Rain-Thunderstorm-for-Deeper-Sleep-English-2022-20221121171755-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/259/Heavy-Rain-Thunderstorm-for-Deeper-Sleep-English-2022-20221121171755-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/259/Heavy-Rain-Thunderstorm-for-Deeper-Sleep-English-2022-20221121171755-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "52722581",
+        "name": "GUTS (spilled)",
+        "type": "album",
+        "year": "",
+        "releaseDate": "2024-03-22",
+        "playCount": "",
+        "language": "english",
+        "explicitContent": "0",
+        "songCount": "17",
+        "url": "https://www.jiosaavn.com/s/album/english/guts-spilled-2024/54pI-yKNGyA_",
+        "primaryArtists": [],
+        "featuredArtists": [],
+        "artists": [
+          {
+            "id": "2255753",
+            "name": "Olivia Rodrigo",
+            "url": "https://www.jiosaavn.com/artist/olivia-rodrigo-songs/B6E0EBxDcT4_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/Olivia_Rodrigo_000_20240207065315_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/Olivia_Rodrigo_000_20240207065315_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/Olivia_Rodrigo_000_20240207065315_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": ""
+          }
+        ],
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/321/GUTS-spilled-English-2024-20240322064113-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/321/GUTS-spilled-English-2024-20240322064113-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/321/GUTS-spilled-English-2024-20240322064113-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "49285760",
+        "name": "1989 (Taylor's Version)",
+        "type": "album",
+        "year": "",
+        "releaseDate": "2023-10-27",
+        "playCount": "",
+        "language": "english",
+        "explicitContent": "0",
+        "songCount": "21",
+        "url": "https://www.jiosaavn.com/s/album/english/1989-taylors-version-2023/Ked8r4ZHp3M_",
+        "primaryArtists": [],
+        "featuredArtists": [],
+        "artists": [
+          {
+            "id": "565990",
+            "name": "Taylor Swift",
+            "url": "https://www.jiosaavn.com/artist/taylor-swift-songs/bQVPhRbZO1I_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/Taylor_Swift_003_20200226074119_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/Taylor_Swift_003_20200226074119_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/Taylor_Swift_003_20200226074119_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": ""
+          }
+        ],
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/768/1989-Taylor-s-Version-English-2023-20231104031718-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/768/1989-Taylor-s-Version-English-2023-20231104031718-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/768/1989-Taylor-s-Version-English-2023-20231104031718-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "50455131",
+        "name": "MONTAGEM CORAL",
+        "type": "album",
+        "year": "",
+        "releaseDate": "2023-11-23",
+        "playCount": "",
+        "language": "english",
+        "explicitContent": "0",
+        "songCount": "1",
+        "url": "https://www.jiosaavn.com/s/album/english/montagem-coral-2023/348oiaLdwPc_",
+        "primaryArtists": [],
+        "featuredArtists": [],
+        "artists": [
+          {
+            "id": "16996295",
+            "name": "Sin4Hood",
+            "url": "https://www.jiosaavn.com/artist/sin4hood-songs/i3Nq,DV9J2M_",
+            "image": false,
+            "type": "artist",
+            "role": ""
+          },
+          {
+            "id": "16996296",
+            "name": " Xawox",
+            "url": "https://www.jiosaavn.com/artist/-xawox-songs/U0Wr0fQ6E54_",
+            "image": false,
+            "type": "artist",
+            "role": ""
+          }
+        ],
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/688/MONTAGEM-CORAL-English-2023-20231214081318-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/688/MONTAGEM-CORAL-English-2023-20231214081318-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/688/MONTAGEM-CORAL-English-2023-20231214081318-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "49428469",
+        "name": "GOLDEN",
+        "type": "album",
+        "year": "",
+        "releaseDate": "2023-11-03",
+        "playCount": "",
+        "language": "english",
+        "explicitContent": "0",
+        "songCount": "11",
+        "url": "https://www.jiosaavn.com/s/album/english/golden-2023/Krd038VtsG4_",
+        "primaryArtists": [],
+        "featuredArtists": [],
+        "artists": [
+          {
+            "id": "8711782",
+            "name": "Jung Kook",
+            "url": "https://www.jiosaavn.com/artist/jung-kook-songs/H-uZ66aVWjo_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/Jung_Kook_004_20231120065514_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/Jung_Kook_004_20231120065514_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/Jung_Kook_004_20231120065514_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": ""
+          }
+        ],
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/441/GOLDEN-English-2023-20231103093731-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/441/GOLDEN-English-2023-20231103093731-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/441/GOLDEN-English-2023-20231103093731-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "51389134",
+        "name": "Popular",
+        "type": "album",
+        "year": "",
+        "releaseDate": "2024-01-26",
+        "playCount": "",
+        "language": "english",
+        "explicitContent": "0",
+        "songCount": "5",
+        "url": "https://www.jiosaavn.com/s/album/english/popular-2024/IYNdSMr1vmE_",
+        "primaryArtists": [],
+        "featuredArtists": [],
+        "artists": [
+          {
+            "id": "615155",
+            "name": "The Weeknd",
+            "url": "https://www.jiosaavn.com/artist/the-weeknd-songs/FJRb7GbYWrQ_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/The_Weeknd_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/The_Weeknd_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/The_Weeknd_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": ""
+          },
+          {
+            "id": "522744",
+            "name": " Madonna",
+            "url": "https://www.jiosaavn.com/artist/-madonna-songs/ygEp5MhUSFw_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/Madonna_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/Madonna_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/Madonna_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": ""
+          }
+        ],
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/934/Popular-English-2024-20240126143623-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/934/Popular-English-2024-20240126143623-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/934/Popular-English-2024-20240126143623-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "50311100",
+        "name": "prince of egypt (Slowed Down)",
+        "type": "album",
+        "year": "",
+        "releaseDate": "2023-12-08",
+        "playCount": "",
+        "language": "english",
+        "explicitContent": "0",
+        "songCount": "2",
+        "url": "https://www.jiosaavn.com/s/album/english/prince-of-egypt-slowed-down-2023/UN1GsvLKoHw_",
+        "primaryArtists": [],
+        "featuredArtists": [],
+        "artists": [
+          {
+            "id": "6337868",
+            "name": "Mofe.",
+            "url": "https://www.jiosaavn.com/artist/mofe.-songs/Akw3tZxBrkY_",
+            "image": false,
+            "type": "artist",
+            "role": ""
+          }
+        ],
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/594/prince-of-egypt-Slowed-Down-English-2023-20231208234730-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/594/prince-of-egypt-Slowed-Down-English-2023-20231208234730-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/594/prince-of-egypt-Slowed-Down-English-2023-20231208234730-500x500.jpg?bch=475537"
+          }
+        ]
+      },
+      {
+        "id": "19531208",
+        "name": "After Hours",
+        "type": "album",
+        "year": "",
+        "releaseDate": "2020-03-20",
+        "playCount": "",
+        "language": "english",
+        "explicitContent": "0",
+        "songCount": "14",
+        "url": "https://www.jiosaavn.com/s/album/english/after-hours-2020/y0pOEMYQFWQ_",
+        "primaryArtists": [],
+        "featuredArtists": [],
+        "artists": [
+          {
+            "id": "615155",
+            "name": "The Weeknd",
+            "url": "https://www.jiosaavn.com/artist/the-weeknd-songs/FJRb7GbYWrQ_",
+            "image": [
+              {
+                "quality": "50x50",
+                "link": "https://c.saavncdn.com/artists/The_Weeknd_50x50.jpg"
+              },
+              {
+                "quality": "150x150",
+                "link": "https://c.saavncdn.com/artists/The_Weeknd_150x150.jpg"
+              },
+              {
+                "quality": "500x500",
+                "link": "https://c.saavncdn.com/artists/The_Weeknd_500x500.jpg"
+              }
+            ],
+            "type": "artist",
+            "role": ""
+          }
+        ],
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/077/After-Hours-English-2020-20240207070330-50x50.jpg?bch=475537"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/077/After-Hours-English-2020-20240207070330-150x150.jpg?bch=475537"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/077/After-Hours-English-2020-20240207070330-500x500.jpg?bch=475537"
+          }
+        ]
+      }
+    ]
+  }
+}

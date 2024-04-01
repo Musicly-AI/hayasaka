@@ -1,0 +1,32 @@
+[
+  {
+    "name": "AA",
+    "url": "www",
+    "type": "type1",
+    "role": "role1",
+    "image": [
+      {
+        "quality": "high",
+        "url": "www"
+      }
+    ],
+    "followerCount": 1,
+    "fanCount": "100",
+    "isVerified": true,
+    "dominantLanguage": "en",
+    "dominantType": "us",
+    "bio": "bio111",
+    "dob": "dob2222",
+    "fb": "wwwfb",
+    "twitter": "wwwtwitter",
+    "wiki": "wikiwww",
+    "availableLanguages": [
+      "en"
+    ],
+    "isRadioPresent": true,
+    "topSongs": ["66066b724a1fa4e078c679ad"],
+    "topAlbums": ["66066df193e9fb90bc02e2c5"],
+    "singles":  ["66066b724a1fa4e078c679ad"],
+    "similarArtists": ["66065db6a50a7568f72e83a6"]
+  }
+]
