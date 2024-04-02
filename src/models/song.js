@@ -18,6 +18,7 @@ const songSchema = new mongoose.Schema(
     hasLyrics: Boolean,
     lyricsId: String,
     isTrending: Boolean,
+    praiseCount: Number,
     lyrics: {
       type: mongoose.Schema.Types.ObjectId,
       ref: "lyrics",

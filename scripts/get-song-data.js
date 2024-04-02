@@ -6,10 +6,14 @@ const moment = require("moment-timezone");
 
 const HttpProxyAgent = require("http-proxy-agent").HttpProxyAgent;
 const HttpsProxyAgent = require("https-proxy-agent").HttpsProxyAgent;
-const mm = require('music-metadata');
+const mm = require("music-metadata");
 
 async function getDuration(url) {
-  const response = await axios.get(url, { responseType: 'stream' });
+  const response = await axios.get(url, {
+    responseType: "stream",
+    httpAgent,
+    httpsAgent,
+  });
   const metadata = await mm.parseStream(response.data);
   return Math.ceil(metadata.format.duration);
 }
@@ -44,6 +48,7 @@ async function getSongData(id) {
   const isTrending = false;
   const url = `https://cdn1.suno.ai/${id}.mp3`;
   const duration = await getDuration(url);
+  const praiseCount = $("p.css-1ceo1nj").first().text().trim();
   const image = [
     {
       quality: "200x200",
@@ -79,6 +84,7 @@ async function getSongData(id) {
     image,
     downloadUrl,
     lyrics,
+    praiseCount,
   };
 
   return songData;
@@ -86,7 +92,7 @@ async function getSongData(id) {
 
 async function fetchWebData() {
   // 连接MongoDB数据库
-  await mongoose.connect("mongodb://localhost:27017/haya", {
+  await mongoose.connect("mongodb://0.0.0.0:27017/haya", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   });
@@ -106,7 +112,7 @@ async function fetchWebData() {
       const Lyrics = require("./models/lyrics");
       const Song = require("./models/song");
 
-      const lyrics  = songData.lyrics;
+      const lyrics = songData.lyrics;
       const lyricsData = await Lyrics.create(lyrics);
       songData.lyricsId = lyricsData._id;
       songData.lyrics = lyricsData;
