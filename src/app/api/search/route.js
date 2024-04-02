@@ -54,6 +54,12 @@ export async function GET(req) {
           item.songIds = item.songs.map((song) => song._id);
         }
 
+        if (item.artists.all && item.artists.all.length > 0) {
+          item.artists = item.artists.all;
+        } else {
+          item.artists = [];
+        }
+
         return item;
       });
     }
@@ -80,6 +86,8 @@ export async function GET(req) {
             item.primaryArtists = item.artists.primary;
             item.singers = item.artists.primary[0];
           }
+
+          item.artists = item.artists.all;
           return item;
         });
       }
