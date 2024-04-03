@@ -64,7 +64,7 @@ const page = ({ params }) => {
         ) : (
           <div className=" relative">
             <Image
-              src={artistDetails?.image?.[2]?.url}
+              src={artistDetails?.image?.[0]?.url}
               width={300}
               height={300}
               alt={artistDetails?.name}

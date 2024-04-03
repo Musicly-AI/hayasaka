@@ -66,7 +66,7 @@ const page = ({ params }) => {
         ) : (
           <img
             className=" rounded-lg"
-            src={albumData?.image?.[2]?.url}
+            src={albumData?.image?.[0]?.url}
             alt={albumData?.title}
             width={300}
             height={300}
