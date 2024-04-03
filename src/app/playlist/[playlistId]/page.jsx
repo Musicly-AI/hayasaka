@@ -69,7 +69,7 @@ export default page;
 export const revalidate = 14400;
 
 export async function generateStaticParams() {
-  const res = await homePageData(["english", "hindi", "punjabi"]);
+  const res = await homePageData("english");
   return res?.charts?.map((playlist) => ({
     playlistId: playlist?.id.toString(),
   }));

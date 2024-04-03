@@ -2,7 +2,7 @@
 export async function homePageData(language) {
   try {
     const response = await fetch(
-      `/api/modules?language=${language.toString()}`,
+      `http://localhost:3000/api/modules?language=${language.toString()}`,
       {
         next: {
           revalidate: 14400,
@@ -47,7 +47,7 @@ export async function getAlbumData(id) {
 export async function getplaylistData(id) {
   try {
     const response = await fetch(
-      `/api/playlists?id=${id}`
+      `http://localhost:3000/api/playlists?id=${id}`
     );
     const data = await response.json();
     return data?.data;

@@ -57,21 +57,22 @@ export async function GET(req) {
     }
 
     // 查询首页 charts , Charts 列表
-    const charts = await SongPlaylist.find({ isChart: true, language: queryLang })
+    const charts = await SongPlaylist.find({ isChart: true })
       .sort({ chartSortNo: 1 })
       .exec();
     if (charts.length > 0) {
       resData.charts = charts.map((chart) => {
+        const chartData = chart.toObject();
         const item = {
-          id: chart._id,
-          title: chart.name,
-          subtitle: chart.description,
+          id: chartData._id,
+          title: chartData.name,
+          subtitle: chartData.description,
           type: 'playlist',
-          Image: chart.image,
-          url: chart.url,
-          firstname: chart.name,
-          explicitContent: chart.explicitContent ? "1" : "0",
-          language: chart.language,
+          image: chartData.image,
+          url: chartData.url,
+          firstname: chartData.name,
+          explicitContent: chartData.explicitContent ? "1" : "0",
+          language: chartData.language,
         };
         return item;
       });

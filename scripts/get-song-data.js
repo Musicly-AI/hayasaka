@@ -125,6 +125,8 @@ async function fetchWebData() {
       console.log(`成功插入歌曲数据 ${songData.name},id: ${id}`);
     }
   }
+
+  console.log("数据获取完毕");
 }
 
 fetchWebData();
