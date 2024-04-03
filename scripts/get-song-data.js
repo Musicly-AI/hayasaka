@@ -69,6 +69,8 @@ async function getSongData(id) {
     lyrics: $("p.css-w5d21i").first().text().trim(),
   };
 
+  const trendingSortNo = 10;
+
   const songData = {
     name,
     description,
@@ -85,6 +87,7 @@ async function getSongData(id) {
     downloadUrl,
     lyrics,
     praiseCount,
+    trendingSortNo,
   };
 
   return songData;

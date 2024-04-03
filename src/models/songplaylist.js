@@ -12,7 +12,16 @@ const playlistSchema = new mongoose.Schema(
     explicitContent: Boolean,
     songCount: Number,
     url: String,
-    isModule: Boolean,
+    isModule: Boolean, // 为 true 时，显示在首页 Featured Playlists 列表
+    moduleSortNo: {
+      type: Number,
+      default: 0,
+    }, // 用于排序
+    isChart: Boolean, // 为 true 时，显示在首页 Charts 列表 
+    chartSortNo: {
+      type: Number,
+      default: 0,
+    }, // 用于排序
     image: [imageSchema],
     songs: [
       {

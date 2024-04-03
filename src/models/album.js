@@ -12,8 +12,16 @@ const albumSchema = new mongoose.Schema(
     language: String,
     explicitContent: Boolean,
     songCount: Number,
-    isModule: Boolean,
-    isTrending: Boolean,
+    isModule: Boolean, // 为 true 时，显示在首页 New Releases 列表
+    moduleSortNo: {
+      type: Number,
+      default: 0,
+    }, // 用于排序
+    isTrending: Boolean, // 为 true 时，显示在首页 Trending 列表，显示在歌曲后
+    trendingSortNo: {
+      type: Number,
+      default: 0,
+    }, // 用于排序
     artists: {
       primary: [
         {

@@ -17,8 +17,15 @@ const songSchema = new mongoose.Schema(
     language: String,
     hasLyrics: Boolean,
     lyricsId: String,
-    isTrending: Boolean,
-    praiseCount: Number,
+    isTrending: Boolean, // 为 true 时，显示在首页 Trending 列表
+    trendingSortNo: {
+      type: Number,
+      default: 0,
+    }, // 用于排序
+    praiseCount: {
+      type: Number,
+      default: 0,
+    },
     lyrics: {
       type: mongoose.Schema.Types.ObjectId,
       ref: "lyrics",
