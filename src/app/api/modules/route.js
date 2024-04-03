@@ -27,7 +27,7 @@ export async function GET(req) {
       },
     };
 
-    // 查询首页专辑
+    // 查询首页专辑，New Releases 列表
     const albums = await Album.find({ isModule: true, language: queryLang})
       .populate("artists.primary", "id name role type url image")
       .populate("artists.featured", "id name role type url image")
@@ -42,6 +42,8 @@ export async function GET(req) {
           { path: "artists.all", select: "id name role type url image" },
         ],
       })
+      // 根据 moduleSortNo 排序
+      .sort({ moduleSortNo: 1 })
       .exec();
 
     if (albums.length > 0) {
@@ -54,18 +56,30 @@ export async function GET(req) {
       });
     }
 
-    // 查询首页 charts
-    const charts = await Charts.find({ isModule: true, language: queryLang })
+    // 查询首页 charts , Charts 列表
+    const charts = await SongPlaylist.find({ isChart: true, language: queryLang })
+      .sort({ chartSortNo: 1 })
       .exec();
     if (charts.length > 0) {
       resData.charts = charts.map((chart) => {
-        const item = chart.toObject();
+        const item = {
+          id: chart._id,
+          title: chart.name,
+          subtitle: chart.description,
+          type: 'playlist',
+          Image: chart.image,
+          url: chart.url,
+          firstname: chart.name,
+          explicitContent: chart.explicitContent ? "1" : "0",
+          language: chart.language,
+        };
         return item;
       });
     }
 
     // 查询首页播放列表
     const playlists = await SongPlaylist.find({ isModule: true })
+      .sort({ moduleSortNo: 1 })
       .exec();
 
     if (playlists.length > 0) {
@@ -85,6 +99,7 @@ export async function GET(req) {
       .populate("artists.primary", "id name role type url image")
       .populate("artists.featured", "id name role type url image")
       .populate("artists.all", "id name role type url image")
+      .sort({ trendingSortNo: 1 })
       .exec();
 
     if (trending.length > 0) {
@@ -102,6 +117,7 @@ export async function GET(req) {
       .populate("artists.primary", "id name role type url image")
       .populate("artists.featured", "id name role type url image")
       .populate("artists.all", "id name role type url image")
+      .sort({ trendingSortNo: 1 })
       .exec();
 
     if (trendingAlbums.length > 0) {
