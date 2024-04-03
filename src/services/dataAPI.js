@@ -2,7 +2,7 @@
 export async function homePageData(language) {
   try {
     const response = await fetch(
-      `http://localhost:3000/api/modules?language=${language.toString()}`,
+      `${process.env.API_BASE_URL}/api/modules?language=${language.toString()}`,
       {
         next: {
           revalidate: 14400,
@@ -20,7 +20,7 @@ export async function homePageData(language) {
 export async function getSongData(id) {
   try {
     const response = await fetch(
-      `/api/songs?id=${id}`
+      `${process.env.API_BASE_URL}/api/songs?id=${id}`
     );
     const data = await response.json();
     console.log("song data", data);
@@ -34,7 +34,7 @@ export async function getSongData(id) {
 export async function getAlbumData(id) {
   try {
     const response = await fetch(
-      `/api/albums?id=${id}`
+      `${process.env.API_BASE_URL}/api/albums?id=${id}`
     );
     const data = await response.json();
     return data?.data;
@@ -47,7 +47,7 @@ export async function getAlbumData(id) {
 export async function getplaylistData(id) {
   try {
     const response = await fetch(
-      `http://localhost:3000/api/playlists?id=${id}`
+      `${process.env.API_BASE_URL}/api/playlists?id=${id}`
     );
     const data = await response.json();
     return data?.data;
@@ -60,7 +60,7 @@ export async function getplaylistData(id) {
 export async function getlyricsData(id) {
   try {
     const response = await fetch(
-      `/api/lyrics?id=${id}`
+      `${process.env.API_BASE_URL}/api/lyrics?id=${id}`
     );
     const data = await response.json();
     return data;
@@ -73,7 +73,7 @@ export async function getlyricsData(id) {
 export async function getArtistData(id) {
   try {
     const response = await fetch(
-      `/api/artists?id=${id}`
+      `${process.env.API_BASE_URL}/api/artists?id=${id}`
     );
     const data = await response.json();
     return data?.data;
@@ -86,7 +86,7 @@ export async function getArtistData(id) {
 export async function getArtistSongs(id, page) {
   try {
     const response = await fetch(
-      `/api/artists/${id}/songs?page=${page}`
+      `${process.env.API_BASE_URL}/api/artists/${id}/songs?page=${page}`
     );
     const data = await response.json();
     console.log("artist songs", data.data);
@@ -100,7 +100,7 @@ export async function getArtistSongs(id, page) {
 export async function getArtistAlbums(id, page) {
   try {
     const response = await fetch(
-      `/api/artists/${id}/albums?page=${page}`
+      `${process.env.API_BASE_URL}/api/artists/${id}/albums?page=${page}`
     );
     const data = await response.json();
     return data?.data;
@@ -113,7 +113,7 @@ export async function getArtistAlbums(id, page) {
 export async function getSearchedData(query) {
   try {
     const response = await fetch(
-      `/api/search?query=${query}`
+      `${process.env.API_BASE_URL}/api/search?query=${query}`
     );
     const data = await response.json();
     return data?.data;
@@ -199,7 +199,7 @@ export async function sendResetPasswordLink(email) {
 export async function getRecommendedSongs(artistId, songId) {
   try {
     const response = await fetch(
-      `/api/songs/${songId}/suggestions`
+      `${process.env.API_BASE_URL}/api/songs/${songId}/suggestions`
     );
     const data = await response.json();
     return data?.data;
