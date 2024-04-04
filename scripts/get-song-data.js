@@ -11,8 +11,8 @@ const mm = require("music-metadata");
 async function getDuration(url) {
   const response = await axios.get(url, {
     responseType: "stream",
-    httpAgent,
-    httpsAgent,
+    // httpAgent,
+    // httpsAgent,
   });
   const metadata = await mm.parseStream(response.data);
   return Math.ceil(metadata.format.duration);
@@ -26,8 +26,8 @@ async function getSongData(id) {
   const songUrl = `https://app.suno.ai/song/${id}/`;
 
   const { data } = await axios.get(songUrl, {
-    httpAgent,
-    httpsAgent,
+    // httpAgent,
+    // httpsAgent,
   });
   const $ = cheerio.load(data);
 
@@ -95,7 +95,11 @@ async function getSongData(id) {
 
 async function fetchWebData() {
   // 连接MongoDB数据库
-  await mongoose.connect("mongodb://0.0.0.0:27017/haya", {
+  // await mongoose.connect("mongodb://0.0.0.0:27017/haya", {
+  //   useNewUrlParser: true,
+  //   useUnifiedTopology: true,
+  // });
+  await mongoose.connect("mongodb+srv://haya:pvWVG6O0k2BkwrM0@cluster0.kjph7ms.mongodb.net/haya?retryWrites=true&w=majority&appName=Cluster0", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   });
