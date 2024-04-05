@@ -8,7 +8,7 @@ const Downloader = ({ activeSong, icon }) => {
   const { size, elapsed, percentage, download, error, isInProgress } =
     useDownloader();
 
-  const songUrl = activeSong?.downloadUrl?.[4]?.url;
+  const songUrl = activeSong?.downloadUrl?.[0]?.url;
   const filename = `${activeSong?.name
     ?.replace("&#039;", "'")
     ?.replace("&amp;", "&")}.mp3`;
