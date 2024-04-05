@@ -124,9 +124,17 @@ async function fetchWebData() {
       songData.lyricsId = lyricsData._id;
       songData.lyrics = lyricsData;
 
-      await Song.create(songData);
+      const existingSong = await Song.findOne({ _id: id });
 
-      console.log(`成功插入歌曲数据 ${songData.name},id: ${id}`);
+      // If no song with the same id exists, create a new one
+      if (!existingSong) {
+        await Song.create(songData);
+        console.log(`成功插入歌曲数据 ${songData.name},id: ${id}`);
+      }
+      else{
+        console.log(`歌曲数据已存在 ${songData.name},id: ${id}`);
+      }
+
     }
   }
 
