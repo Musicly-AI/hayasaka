@@ -6,6 +6,7 @@ import { useDispatch } from 'react-redux';
 import { setIsTyping } from '@/redux/features/loadingBarSlice';
 import { toast } from 'react-hot-toast';
 import { submitSunoSong } from '@/services/dataAPI';
+import { setReload } from '@/redux/features/reloadHomePageDataSlice';
 
 
 const Searchbar = () => {
@@ -36,6 +37,8 @@ const Searchbar = () => {
     const resData = await submitSunoSong(id);
     if (resData.success) {
       toast.success('Submitted successfully.');
+      setSunoUrl('');
+      dispatch(setReload(true));
     } else {
       toast.error(resData.message);
     }

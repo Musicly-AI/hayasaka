@@ -12,6 +12,7 @@ import { GiMusicalNotes } from 'react-icons/gi'
 import SongBar from "./SongBar";
 import OnlineStatus from "./OnlineStatus";
 import ListenAgain from "./ListenAgain";
+import { setReload } from "@/redux/features/reloadHomePageDataSlice";
 
 
 const Home = () => {
@@ -20,6 +21,7 @@ const Home = () => {
   const dispatch = useDispatch();
   const { activeSong, isPlaying, } = useSelector((state) => state.player);
   const { languages } = useSelector((state) => state.languages);
+  const { reload } = useSelector((state) => state.reloadHomePageData);
 
   // salutation
   const currentTime = new Date();
@@ -34,18 +36,28 @@ const Home = () => {
     salutation = 'Good evening';
   }
 
-
+  const fetchData = async () => {
+    dispatch(setProgress(70))
+    setData("")
+    setLoading(true);
+    const res = await homePageData(languages);
+    setData(res);
+    dispatch(setProgress(100))
+    setLoading(false);
+    dispatch(setReload(false))
+  };
 
   useEffect(() => {
-    const fetchData = async () => {
-      dispatch(setProgress(70))
-      const res = await homePageData(languages);
-      setData(res);
-      dispatch(setProgress(100))
-      setLoading(false);
-    };
     fetchData();
   }, [languages]);
+
+  useEffect(() => {
+    if (!reload) {
+      return;
+    }
+
+    fetchData();
+  }, [reload]);
 
 
 
@@ -111,7 +123,7 @@ const Home = () => {
           loading ? (
             <SongCardSkeleton />
           ) : (
-            data?.albums?.map(
+            data?.songs?.map(
               (song) =>
               (
                 <SwiperSlide key={song?.id}>

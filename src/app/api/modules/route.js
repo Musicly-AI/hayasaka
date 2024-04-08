@@ -19,6 +19,7 @@ export async function GET(req) {
 
     const resData = {
       albums: [],
+      songs: [],
       charts: [],
       playlists: [],
       trending: {
@@ -27,34 +28,55 @@ export async function GET(req) {
       },
     };
 
-    // 查询首页专辑，New Releases 列表
-    const albums = await Album.find({ isModule: true, language: queryLang})
+    // // 查询首页专辑，New Releases 列表
+    // const albums = await Album.find({ isModule: true, language: queryLang})
+    //   .populate("artists.primary", "id name role type url image")
+    //   .populate("artists.featured", "id name role type url image")
+    //   .populate("artists.all", "id name role type url image")
+    //   .populate({
+    //     path: "songs",
+    //     populate: [
+    //       { path: "lyrics" },
+    //       { path: "album", select: "id name url" },
+    //       { path: "artists.primary", select: "id name role type url image" },
+    //       { path: "artists.featured", select: "id name role type url image" },
+    //       { path: "artists.all", select: "id name role type url image" },
+    //     ],
+    //   })
+    //   // 根据 moduleSortNo 排序
+    //   .sort({ moduleSortNo: 1 })
+    //   .exec();
+
+    // if (albums.length > 0) {
+    //   resData.albums = albums.map((album) => {
+    //     const item = album.toObject();
+    //     item.primaryArtists = item.artists.primary;
+    //     item.featuredArtists = item.artists.featured;
+    //     item.artists = item.artists.all;
+    //     return item;
+    //   });
+    // }
+
+    // search last created 20 songs
+    const songs = await Song.find({ language: queryLang })
+      .populate("lyrics")
+      .populate("album", "id name url")
       .populate("artists.primary", "id name role type url image")
       .populate("artists.featured", "id name role type url image")
       .populate("artists.all", "id name role type url image")
-      .populate({
-        path: "songs",
-        populate: [
-          { path: "lyrics" },
-          { path: "album", select: "id name url" },
-          { path: "artists.primary", select: "id name role type url image" },
-          { path: "artists.featured", select: "id name role type url image" },
-          { path: "artists.all", select: "id name role type url image" },
-        ],
-      })
-      // 根据 moduleSortNo 排序
-      .sort({ moduleSortNo: 1 })
+      .sort({ createdAt: -1 })
+      .limit(20)
       .exec();
 
-    if (albums.length > 0) {
-      resData.albums = albums.map((album) => {
-        const item = album.toObject();
-        item.primaryArtists = item.artists.primary;
-        item.featuredArtists = item.artists.featured;
-        item.artists = item.artists.all;
-        return item;
-      });
-    }
+      if (songs.length > 0) {
+        resData.songs = songs.map((song) => {
+          const item = song.toObject();
+          item.primaryArtists = item.artists.primary;
+          item.featuredArtists = item.artists.featured;
+          item.artists = item.artists.all;
+          return item;
+        });
+      }
 
     // 查询首页 charts , Charts 列表
     const charts = await SongPlaylist.find({ isChart: true })
