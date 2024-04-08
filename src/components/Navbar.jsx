@@ -9,6 +9,7 @@ import { setProgress } from '@/redux/features/loadingBarSlice'
 import { MdOutlineMenu } from 'react-icons/md'
 import { IoClose } from 'react-icons/io5'
 import Sidebar from './Sidebar/Sidebar'
+import SubmitSong from './SubmitSong'
 
 
 const Navbar = () => {
@@ -27,6 +28,7 @@ const Navbar = () => {
                 src={logo} alt="logo" className=' lg:py-2  aspect-video w-[135px] h-[30.741px] lg:h-[58px] lg:w-[190px]' />
             </Link>
           </div>
+          <SubmitSong />
         </div>
         <Searchbar />
       </div>

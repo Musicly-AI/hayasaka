@@ -30,6 +30,23 @@ export async function getSongData(id) {
   }
 }
 
+// submit suno song by suno id
+export async function submitSunoSong(id) {
+  try {
+    const response = await fetch(
+      `${process.env.API_BASE_URL}/api/songs/${id}/submit`,
+      {
+        method: "POST",
+      }
+    );
+    const data = await response.json();
+    console.log("submit data", data);
+    return data;
+  } catch (error) {
+    console.log(error);
+  }
+}
+
 // get album data
 export async function getAlbumData(id) {
   try {
