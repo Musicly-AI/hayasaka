@@ -66,7 +66,7 @@ const Home = () => {
       <OnlineStatus />
       <h1 className='text-4xl font-bold mx-2 m-9 text-white flex gap-2'>"{salutation}  <GiMusicalNotes />"</h1>
 
-      <ListenAgain />
+      {/* <ListenAgain /> */}
 
       {/* trending */}
       <SwiperLayout title={"Trending"} >
