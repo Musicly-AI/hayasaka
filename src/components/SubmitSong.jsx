@@ -24,7 +24,7 @@ const Searchbar = () => {
     e.preventDefault();
 
     // check if the URL is a valid Suno URL
-    const regex = /^https:\/\/app\.suno\.ai\/song\/([a-z0-9-]+)\/$/;
+    const regex = /^https:\/\/app\.suno\.ai\/song\/([a-z0-9-]+)(\/)?$/;
     const match = sunoUrl.match(regex);
     if (!match) { 
       toast.error('Please enter a valid Suno URL.');
