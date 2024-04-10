@@ -1,5 +1,7 @@
 import { Agenda } from '@hokify/agenda';
 import getDailyTrendingData from './jobs/getDailyTrendingData.js';
+import createWeeklyTrending from './jobs/createWeeklyTrending.js';
+import createMonthlyTrending from './jobs/createMonthlyTrending.js';
 
 function time() {
   return new Date().toTimeString().split(' ')[0];
@@ -24,6 +26,18 @@ agenda.define('getDailyTrendingData', async (job) => {
   await getDailyTrendingData();
 });
 
+// Add Language Weekly Ranking List.
+agenda.define('createWeeklyTrending', async (job) => {
+  console.log(new Date(), 'Create weekly trending');
+  await createWeeklyTrending();
+});
+
+// Add Language Monthly Ranking List.
+agenda.define('createMonthlyTrending', async (job) => {
+  console.log(new Date(), 'Create monthly trending');
+  await createMonthlyTrending();
+});
+
 (async function () {
   console.log(new Date(), 'Agenda started');
   agenda.processEvery('1 second');
@@ -36,6 +50,9 @@ agenda.define('getDailyTrendingData', async (job) => {
 
   // Add Language Weekly Ranking List.
   await agenda.every('10 0 * * 3', 'createWeeklyTrending');
+
+  // Add Monthly Ranking List.
+  await agenda.every('30 0 1 * *', 'createMonthlyTrending');
 
   agenda.on('start', (job) => {
     console.log(time(), `Job <${job.attrs.name}> starting`);

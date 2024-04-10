@@ -1,7 +1,15 @@
-const getDailyTrendingData = require("./jobs/getDailyTrendingData");
+import getDailyTrendingData from "./jobs/getDailyTrendingData.js";
+
+import createWeeklyTrending from "./jobs/createWeeklyTrending.js";
+
+import createMonthlyTrending from "./jobs/createMonthlyTrending.js";
 
 async function testJob() {
-  await getDailyTrendingData();
+  // await getDailyTrendingData();
+
+  // await createWeeklyTrending();
+
+  await createMonthlyTrending();
 
 }
 

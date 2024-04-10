@@ -103,8 +103,8 @@ async function createWeeklyTrending() {
         console.log(`Fetching song ${song.name} with id ${id}`);
         const songUrl = `https://suno.com/song/${id}/`;
         const response = await axios.get(songUrl, {
-          httpAgent,
-          httpsAgent,
+          // httpAgent,
+          // httpsAgent,
         });
         const $ = cheerio.load(response.data);
         const playCountNode = $("p.css-pms8ea");
