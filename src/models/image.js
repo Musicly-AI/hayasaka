@@ -10,4 +10,4 @@ imageSchema.virtual('link').get(function() {
 imageSchema.set('toJSON', { virtuals: true });
 imageSchema.set('toObject', { virtuals: true });
 
-module.exports = imageSchema;
+export default imageSchema;

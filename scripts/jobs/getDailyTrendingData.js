@@ -1,11 +1,12 @@
-const axios = require("axios");
-const moment = require("moment-timezone");
-const Song = require("../models/song");
-const Lyrics = require("../models/lyrics");
-const mongoose = require("mongoose");
+import axios from "axios";
+import Song from "../../src/models/song.js";
+import Lyrics from "../../src/models/lyrics.js";
+import mongoose from "mongoose";
 
-const LanguageDetect = require("languagedetect");
-const lngDetector = new LanguageDetect();
+import { franc } from "franc";
+
+// const LanguageDetect = require("languagedetect");
+// const lngDetector = new LanguageDetect();
 
 async function getDailyTrendingData() {
   try {
@@ -39,11 +40,7 @@ async function getDailyTrendingData() {
       const clip = res.data.playlist_clips[i].clip;
       const createdAt = new Date(clip.created_at);
 
-      const detectLanguage = lngDetector.detect(clip.metadata.prompt, 1);
-      let language = "english";
-      if (detectLanguage.length > 0) {
-        language = detectLanguage[0][0];
-      }
+      const language = franc(clip.metadata.prompt);
 
       const songId = clip.id;
       const songData = {
@@ -111,9 +108,12 @@ async function getDailyTrendingData() {
     }
 
     console.log("get daily trending data done");
+
+    await mongoose.connection.close();
+    console.log("close db connection");
   } catch (error) {
     console.error("get daily trending data failed", error);
   }
 }
 
-module.exports = getDailyTrendingData;
+export default getDailyTrendingData;

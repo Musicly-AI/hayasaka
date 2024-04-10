@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import imageSchema from './image';
+import imageSchema from './image.js';
 
 const playlistSchema = new mongoose.Schema(
   {

@@ -2,6 +2,7 @@
   "name": "hayasaka",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -18,7 +19,9 @@
     "bcryptjs": "^2.4.3",
     "cheerio": "^1.0.0-rc.12",
     "crypto": "^1.0.1",
+    "date-fns": "^3.6.0",
     "extract-colors": "^4.0.2",
+    "franc": "^6.2.0",
     "get-pixels": "^3.3.3",
     "http-proxy-agent": "^7.0.2",
     "https-proxy-agent": "^7.0.4",
