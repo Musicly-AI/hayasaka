@@ -5,7 +5,16 @@ const songSchema = new mongoose.Schema(
     name: String,
     type: String,
     year: Number,
+    tags: String,
     releaseDate: {
+      type: Date,
+      default: Date.now,
+    },
+    createDate: {
+      type: Date,
+      default: Date.now,
+    },
+    updateDate: {
       type: Date,
       default: Date.now,
     },
