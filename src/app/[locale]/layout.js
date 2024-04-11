@@ -10,6 +10,8 @@ import { Toaster } from "react-hot-toast";
 import AuthProvider from "./AuthProvider";
 import { Poppins } from "next/font/google";
 import Script from "next/script";
+import initTranslations from "../i18n";
+import TranslationsProvider from "@/components/TranslationsProvider";
 
 const poppins = Poppins({
   weight: "500",
@@ -29,7 +31,10 @@ export const metadata = {
   manifest: "/manifest.json",
 };
 
-export default function RootLayout({ children }) {
+const i18nNamespaces = ["common"];
+
+export default async function RootLayout({ children, params: { locale } }) {
+  const { resources } = await initTranslations(locale, i18nNamespaces);
   return (
     <html lang="en">
       <Script
@@ -49,15 +54,21 @@ export default function RootLayout({ children }) {
         <PassiveListner />
         <Providers>
           <AuthProvider>
-            <TopProgressBar />
-            <SongsHistory />
-            <Navbar />
-            <Toaster />
-            {children}
-            <div className="h-20"></div>
-            <div className="fixed  bottom-0 left-0 right-0 flex backdrop-blur-lg rounded-t-3 z-50">
-              <MusicPlayer />
-            </div>
+            <TranslationsProvider
+              namespaces={i18nNamespaces}
+              locale={locale}
+              resources={resources}
+            >
+              <TopProgressBar />
+              <SongsHistory />
+              <Navbar />
+              <Toaster />
+              {children}
+              <div className="h-20"></div>
+              <div className="fixed  bottom-0 left-0 right-0 flex backdrop-blur-lg rounded-t-3 z-50">
+                <MusicPlayer />
+              </div>
+            </TranslationsProvider>
           </AuthProvider>
         </Providers>
       </body>

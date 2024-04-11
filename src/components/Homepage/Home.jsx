@@ -13,6 +13,7 @@ import SongBar from "./SongBar";
 import OnlineStatus from "./OnlineStatus";
 import ListenAgain from "./ListenAgain";
 import { setReload } from "@/redux/features/reloadHomePageDataSlice";
+import { useTranslation } from 'react-i18next'
 
 
 const Home = () => {
@@ -22,6 +23,8 @@ const Home = () => {
   const { activeSong, isPlaying, } = useSelector((state) => state.player);
   const { languages } = useSelector((state) => state.languages);
   const { reload } = useSelector((state) => state.reloadHomePageData);
+
+  const { t } = useTranslation();
 
   // salutation
   const currentTime = new Date();
@@ -69,7 +72,7 @@ const Home = () => {
       {/* <ListenAgain /> */}
 
       {/* Recommended list */}
-      <SwiperLayout title={"Recommended list"} showNav={false}>
+      <SwiperLayout title={t("recommendedList")} showNav={false}>
         {
           loading ? (
             <SongCardSkeleton />
@@ -90,7 +93,7 @@ const Home = () => {
 
       {/* monthly trending */}
       <div className="my-4 lg:mt-14">
-        <h2 className=" text-white mt-4 text-2xl lg:text-3xl font-semibold mb-4 ">Monthly Trending</h2>
+        <h2 className=" text-white mt-4 text-2xl lg:text-3xl font-semibold mb-4 ">{t('monthlyTrending')}</h2>
         <div className="grid lg:grid-cols-2 gap-x-10 max-h-96 lg:max-h-full lg:overflow-y-auto overflow-y-scroll">
           {
             loading ? (
@@ -109,7 +112,7 @@ const Home = () => {
       </div>
 
       {/* Weekly Trending */}
-      <SwiperLayout title={"Weekly Trending"}>
+      <SwiperLayout title={t('weeklyTrending')}>
         {
           loading ? (
             <SongCardSkeleton />
@@ -127,7 +130,7 @@ const Home = () => {
       </SwiperLayout>
 
       {/* New Releases */}
-      <SwiperLayout title={"New Releases"}>
+      <SwiperLayout title={t('newReleases')}>
         {
           loading ? (
             <SongCardSkeleton />

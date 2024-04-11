@@ -10,6 +10,7 @@ import { MdOutlineMenu } from 'react-icons/md'
 import { IoClose } from 'react-icons/io5'
 import Sidebar from './Sidebar/Sidebar'
 import SubmitSong from './SubmitSong'
+import LanguageChanger from './LanguageChanger'
 
 
 const Navbar = () => {
@@ -31,6 +32,7 @@ const Navbar = () => {
           <SubmitSong />
         </div>
         <Searchbar />
+        <LanguageChanger />
       </div>
 
       <Sidebar showNav={showNav} setShowNav={setShowNav} />
