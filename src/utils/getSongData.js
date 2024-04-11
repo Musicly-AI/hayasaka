@@ -3,31 +3,31 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const moment = require("moment-timezone");
 
-// const HttpProxyAgent = require("http-proxy-agent").HttpProxyAgent;
-// const HttpsProxyAgent = require("https-proxy-agent").HttpsProxyAgent;
+const HttpProxyAgent = require("http-proxy-agent").HttpProxyAgent;
+const HttpsProxyAgent = require("https-proxy-agent").HttpsProxyAgent;
 const mm = require("music-metadata");
 
 async function getDuration(url) {
   const response = await axios.get(url, {
     responseType: "stream",
     // 网络代理，如不需要可删除
-    // httpAgent,
-    // httpsAgent,
+    httpAgent,
+    httpsAgent,
   });
   const metadata = await mm.parseStream(response.data);
   return Math.ceil(metadata.format.duration);
 }
 
-// const httpAgent = new HttpProxyAgent("http://127.0.0.1:10808");
-// const httpsAgent = new HttpsProxyAgent("http://127.0.0.1:10808");
+const httpAgent = new HttpProxyAgent("http://127.0.0.1:10808");
+const httpsAgent = new HttpsProxyAgent("http://127.0.0.1:10808");
 
 export default async function getSongData(id) {
   const songUrl = `https://app.suno.ai/song/${id}/`;
 
   const { data } = await axios.get(songUrl, {
   // 网络代理，如不需要可删除
-    // httpAgent,
-    // httpsAgent,
+    httpAgent,
+    httpsAgent,
   });
   const $ = cheerio.load(data);
 
