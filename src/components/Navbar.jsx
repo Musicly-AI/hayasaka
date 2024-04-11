@@ -31,8 +31,10 @@ const Navbar = () => {
           </div>
           <SubmitSong />
         </div>
-        <Searchbar />
-        <LanguageChanger />
+        <div className="flex">
+          <Searchbar />
+          <LanguageChanger />
+        </div>
       </div>
 
       <Sidebar showNav={showNav} setShowNav={setShowNav} />

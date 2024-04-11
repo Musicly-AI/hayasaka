@@ -8,19 +8,9 @@ import { useEffect, useState } from 'react';
 
 export default function LanguageChanger() {
   const { i18n } = useTranslation();
-  // const currentLocale = i18n.language;
+  const currentLocale = i18n.language;
   const router = useRouter();
   const currentPathname = usePathname();
-
-  const [currentLocale, setCurrentLocale] = useState('');
-
-  useEffect(() => {
-    setCurrentLocale(i18n.language);
-    console.log('currentLocale ef', currentLocale);
-  }, [i18n.language]);
-
-
-  console.log('currentLocale', currentLocale, currentPathname);
 
   const handleChange = e => {
     const newLocale = e.target.value;

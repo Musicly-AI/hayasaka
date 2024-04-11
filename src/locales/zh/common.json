@@ -1,6 +1,6 @@
 {
-  "recommendedList": "推荐榜单",
-  "monthlyTrending": "月榜",
-  "weeklyTrending": "周榜",
-  "newReleases": "最新"
+  "recommendedList": "独立音乐热门50",
+  "monthlyTrending": "独立音乐月度热门100",
+  "weeklyTrending": "独立音乐周报热门100首",
+  "newReleases": "新发布"
 }
