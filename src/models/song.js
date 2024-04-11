@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
 import imageSchema from './image.js';
+import { getLanguageName } from "@/utils/languageMap.js";
 
 const songSchema = new mongoose.Schema(
   {
@@ -84,6 +85,10 @@ const songSchema = new mongoose.Schema(
 
 songSchema.virtual('id').get(function() {
   return this._id.toHexString();
+});
+
+songSchema.virtual('languageName').get(function() {
+  return getLanguageName(this.language);
 });
 
 songSchema.set('toJSON', { virtuals: true });

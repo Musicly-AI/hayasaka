@@ -1,5 +1,5 @@
 "use client";
-import { homePageData } from "@/services/dataAPI";
+import { homePageData, newHomePageData } from "@/services/dataAPI";
 import React from "react";
 import { useEffect, useState } from "react";
 import { SwiperSlide } from "swiper/react";
@@ -40,7 +40,7 @@ const Home = () => {
     dispatch(setProgress(70))
     setData("")
     setLoading(true);
-    const res = await homePageData(languages);
+    const res = await newHomePageData(languages);
     setData(res);
     dispatch(setProgress(100))
     setLoading(false);
@@ -68,27 +68,18 @@ const Home = () => {
 
       {/* <ListenAgain /> */}
 
-      {/* trending */}
-      <SwiperLayout title={"Trending"} >
+      {/* Recommended list */}
+      <SwiperLayout title={"Recommended list"} showNav={false}>
         {
           loading ? (
             <SongCardSkeleton />
           ) : (
             <>
-              {data?.trending?.songs?.map(
-                (song) =>
+              {data?.recommendList?.map(
+                (list) =>
                 (
-                  <SwiperSlide key={song?.id}>
-                    <SongCard song={song} activeSong={activeSong} isPlaying={isPlaying} />
-                  </SwiperSlide>
-                )
-              )}
-
-              {data?.trending?.albums?.map(
-                (song) =>
-                (
-                  <SwiperSlide key={song?.id}>
-                    <SongCard song={song} activeSong={activeSong} isPlaying={isPlaying} />
+                  <SwiperSlide key={list?.id}>
+                    <SongCard song={list} activeSong={activeSong} isPlaying={isPlaying} />
                   </SwiperSlide>
                 )
               )}
@@ -97,9 +88,9 @@ const Home = () => {
         }
       </SwiperLayout>
 
-      {/* top charts */}
+      {/* monthly trending */}
       <div className="my-4 lg:mt-14">
-        <h2 className=" text-white mt-4 text-2xl lg:text-3xl font-semibold mb-4 ">Top Charts</h2>
+        <h2 className=" text-white mt-4 text-2xl lg:text-3xl font-semibold mb-4 ">Monthly Trending</h2>
         <div className="grid lg:grid-cols-2 gap-x-10 max-h-96 lg:max-h-full lg:overflow-y-auto overflow-y-scroll">
           {
             loading ? (
@@ -107,15 +98,33 @@ const Home = () => {
                 <SongCardSkeleton />
               </div>
             ) : (
-              data?.charts?.slice(0, 10)?.map(
-                (playlist, index) =>
+              data?.monthlyList?.map(
+                (list, index) =>
                 (
-                  <SongBar key={playlist?.id} playlist={playlist} i={index} />
+                  <SongBar key={list?.id} playlist={list} i={index} />
                 ))
             )
           }
         </div>
       </div>
+
+      {/* Weekly Trending */}
+      <SwiperLayout title={"Weekly Trending"}>
+        {
+          loading ? (
+            <SongCardSkeleton />
+          ) : (
+            data?.weeklyList?.map(
+              (list) =>
+              (
+                <SwiperSlide key={list?.id}>
+                  <SongCard key={list?.id} song={list} activeSong={activeSong} isPlaying={isPlaying} />
+                </SwiperSlide>
+              )
+            )
+          )
+        }
+      </SwiperLayout>
 
       {/* New Releases */}
       <SwiperLayout title={"New Releases"}>
@@ -128,24 +137,6 @@ const Home = () => {
               (
                 <SwiperSlide key={song?.id}>
                   <SongCard song={song} activeSong={activeSong} isPlaying={isPlaying} />
-                </SwiperSlide>
-              )
-            )
-          )
-        }
-      </SwiperLayout>
-
-      {/* featured playlists */}
-      <SwiperLayout title={"Featured Playlists"}>
-        {
-          loading ? (
-            <SongCardSkeleton />
-          ) : (
-            data?.playlists?.map(
-              (song) =>
-              (
-                <SwiperSlide key={song?.id}>
-                  <SongCard key={song?.id} song={song} activeSong={activeSong} isPlaying={isPlaying} />
                 </SwiperSlide>
               )
             )

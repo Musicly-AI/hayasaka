@@ -22,6 +22,8 @@ const playlistSchema = new mongoose.Schema(
       type: Number,
       default: 0,
     }, // 用于排序
+    isWeekly: Boolean, // 为 true 时，显示在首页 Weekly 列表
+    isMonthly: Boolean, // 为 true 时，显示在首页 Monthly 列表
     image: [imageSchema],
     songs: [
       {

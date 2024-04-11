@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useDispatch } from "react-redux";
 import { setFullScreen } from "@/redux/features/playerSlice";
 import { useSwipeable } from "react-swipeable";
+import { AiOutlineHeart, AiOutlinePlayCircle } from 'react-icons/ai';
 
 const FullscreenTrack = ({
   fullScreen,
@@ -43,6 +44,34 @@ const FullscreenTrack = ({
               ? activeSong?.name.replace("&#039;", "'").replace("&amp;", "&")
               : "Song"}
           </p>
+          <div className="truncate text-gray-300 flex justify-center">
+            <div>
+              Suno Info : 
+            </div>
+            {
+              activeSong?.praiseCount && (
+                <div className="flex justify-start ml-3 items-center">
+                  {activeSong?.praiseCount}
+                  <AiOutlineHeart  title='Favourite' size={25} color={'white'} className="ml-2" />
+                </div>
+              )
+            }
+            {
+              activeSong?.playCount && (
+                <div className="flex justify-start ml-3 items-center">
+                  {activeSong?.playCount}
+                  <AiOutlinePlayCircle title='Play' size={25} color={'white'} className="ml-2" />
+                </div>
+              )
+            }
+            {
+              activeSong?.language && (
+                <div className="flex justify-start ml-3">
+                  {activeSong?.languageName}
+                </div>
+              )
+            }
+          </div>
           <p className="truncate text-gray-300">
             {activeSong?.artists?.primary
               ? activeSong?.artists.primary?.map((artist, index) => (

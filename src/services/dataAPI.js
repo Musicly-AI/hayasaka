@@ -16,6 +16,25 @@ export async function homePageData(language) {
   }
 }
 
+// new home page data
+export async function newHomePageData() {
+  try {
+    const response = await fetch(
+      `${process.env.API_BASE_URL}/api/homeData`,
+      {
+        next: {
+          revalidate: 14400,
+        },
+      }
+    );
+    const data = await response.json();
+    return data?.data;
+  } catch (error) {
+    console.log(error);
+  }
+}
+
+
 // get song data
 export async function getSongData(id) {
   try {
