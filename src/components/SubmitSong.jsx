@@ -24,14 +24,14 @@ const Searchbar = () => {
     e.preventDefault();
 
     // check if the URL is a valid Suno URL
-    const regex = /^https:\/\/app\.suno\.ai\/song\/([a-z0-9-]+)(\/)?$/;
+    const regex = /^https:\/\/((app\.suno\.ai])|(suno\.com))\/song\/([a-z0-9-]+)(\/)?$/;
     const match = sunoUrl.match(regex);
     if (!match) { 
       toast.error('Please enter a valid Suno URL.');
       return;
     }
 
-    const id = match[1];
+    const id = match[4];
     console.log('id', id);
 
     const resData = await submitSunoSong(id);
