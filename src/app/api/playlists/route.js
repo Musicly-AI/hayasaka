@@ -1,6 +1,10 @@
 import { NextResponse } from "next/server";
 import dbConnect from "@/utils/dbconnect";
 import SongPlaylist from '@/models/songplaylist';
+import Song from '@/models/song';
+import Artist from '@/models/artist';
+import Album from '@/models/album';
+import Lyric from '@/models/lyric';
 
 // 根据id获取播放列表
 export async function GET(req) {
