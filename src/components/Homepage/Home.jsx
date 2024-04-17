@@ -92,24 +92,24 @@ const Home = () => {
       </SwiperLayout>
 
       {/* monthly trending */}
-      <div className="my-4 lg:mt-14">
-        <h2 className=" text-white mt-4 text-2xl lg:text-3xl font-semibold mb-4 ">{t('monthlyTrending')}</h2>
-        <div className="grid lg:grid-cols-2 gap-x-10 max-h-96 lg:max-h-full lg:overflow-y-auto overflow-y-scroll">
-          {
-            loading ? (
-              <div className=" w-[90vw] overflow-x-hidden">
-                <SongCardSkeleton />
-              </div>
-            ) : (
-              data?.monthlyList?.map(
-                (list, index) =>
+      <SwiperLayout title={t("monthlyTrending")}>
+        {
+          loading ? (
+            <SongCardSkeleton />
+          ) : (
+            <>
+              {data?.monthlyList?.map(
+                (list) =>
                 (
-                  <SongBar key={list?.id} playlist={list} i={index} />
-                ))
-            )
-          }
-        </div>
-      </div>
+                  <SwiperSlide key={list?.id}>
+                    <SongCard song={list} activeSong={activeSong} isPlaying={isPlaying} />
+                  </SwiperSlide>
+                )
+              )}
+            </>
+          )
+        }
+      </SwiperLayout>
 
       {/* Weekly Trending */}
       <SwiperLayout title={t('weeklyTrending')}>
